@@ -2265,6 +2265,287 @@ wZ´5PF¡	Plø\",\"uid\":5916759,\"status\":3,\"regdate\":\"2017-09-21 09:34\",\"co
         },
         "description": "Generated from a curl request: \ncurl 'http://e.qq.com/phoenix/api.php?mod=targeting&act=gettargetingpackagelist&&g_tk=545098371&advertiser_id=5061976&product_type=30&unicode=true' -H 'Cookie: RK=iEN+AFvaGI; pac_uid=1_272510488; eas_sid=o8OLMkN31gUFLvILuPeWCXz7Y5; __root_domain_v=.e.qq.com; gr_user_id=f243960a-f1da-4484-b445-b99d1e473095; LW_uid=U1J5u1B141J8u5p2C8Z5a0E8r3; LW_sid=E1a5Y111A1m835m3h2U0e2g2R7; pgv_si=s8482683904; cuid=8534091008; _qpsvr_localtk=0.5284608901025567; tvfe_boss_uuid=0054a9f500a603af; gdt_refer=e.qq.com; gdt_full_refer=http%3A%2F%2Fe.qq.com%2Fgaea%2Findex; gdt_original_refer=e.qq.com; gdt_original_full_refer=http%3A%2F%2Fe.qq.com%2Fgaea%2Findex; atlas_platform=atlas; qqmusic_uin=0272510488; qqmusic_key=@jEF9mqwPj; qqmusic_fromtag=6; qqmusic_vkey=EE954FD1405AC1C9B39627B43CC4AE780F3B91E988E80654EA01CFCF6780E5E20DA2BD3951694A60D4DF955AA0AB7F93B108D74D60B161E3; qqmusic_guid=80000155; rv2=8024CE21EE3CAC13CE9682936A01DB9583E83CBDE81F20C320; property20=A552E6A07B9C53394C1648BCE0139F6CC2BB420FA863F60054C692B4730BAAF98D85DC740480B4DF; pgv_pvi=6056730624; _ga=GA1.2.2085556529.1516793581; verifysession=h0151abc04773c46d45cd97a1b6b6763b6033783b07fb0d3d56249921ed54708995052f872ab668c0d3; o_cookie=272510488; ptui_loginuin=2665515812; uin=o2665515812; skey=@2KkQb3Nq1; pt2gguin=o2665515812; ptisp=ctc; ptcz=00b79e167ca0459a3e41a68f0762ef0e9738cabd2450a15a5c68d84046fa1b80; portalversion=new; _qddaz=QD.anpwkv.wzdi9v.j9yzmi81; pgv_info=ssid=s4259692687&pgvReferrer=&ssi=s7305288325; pgv_pvid=9528290847; dm_cookie=version=new&log_type=internal_click&ssid=s4259692687&pvid=9528290847&qq=2665515812&loadtime=2728&url=http%3A%2F%2Fe.qq.com%2Fads%2F&gdt_refer=e.qq.com&gdt_full_refer=http%3A%2F%2Fe.qq.com%2Fgaea%2Findex&gdt_original_refer=e.qq.com&gdt_original_full_refer=http%3A%2F%2Fe.qq.com%2Fgaea%2Findex&gdt_from=&uid=44059&hottag=gaea&hottagtype=header; site_type=new; hottag=gaea; hottagtype=header; _qddab=3-ly2g1y.jcvhvv55' -H 'DNT: 1' -H 'Accept-Encoding: gzip, deflate' -H 'Accept-Language: zh-CN,zh;q=0.8,en;q=0.6' -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36' -H 'Accept: application/json, text/javascript, */*; q=0.01' -H 'Referer: http://e.qq.com/atlas/5061976/ad/create' -H 'X-Requested-With: XMLHttpRequest' -H 'Connection: keep-alive' --compressed"
       },
+      "response": [
+        {
+          "id": "d805a177-55ad-22e5-9575-04529a57c18f",
+          "name": "·ÖêšIšh",
+          "originalRequest": {
+            "method": "GET",
+            "header": [
+              {
+                "key": "Cookie",
+                "value": "RK=iEN+AFvaGI; pac_uid=1_272510488; eas_sid=o8OLMkN31gUFLvILuPeWCXz7Y5; __root_domain_v=.e.qq.com; gr_user_id=f243960a-f1da-4484-b445-b99d1e473095; LW_uid=U1J5u1B141J8u5p2C8Z5a0E8r3; LW_sid=E1a5Y111A1m835m3h2U0e2g2R7; pgv_si=s8482683904; cuid=8534091008; _qpsvr_localtk=0.5284608901025567; tvfe_boss_uuid=0054a9f500a603af; gdt_refer=e.qq.com; gdt_full_refer=http%3A%2F%2Fe.qq.com%2Fgaea%2Findex; gdt_original_refer=e.qq.com; gdt_original_full_refer=http%3A%2F%2Fe.qq.com%2Fgaea%2Findex; atlas_platform=atlas; qqmusic_uin=0272510488; qqmusic_key=@jEF9mqwPj; qqmusic_fromtag=6; qqmusic_vkey=EE954FD1405AC1C9B39627B43CC4AE780F3B91E988E80654EA01CFCF6780E5E20DA2BD3951694A60D4DF955AA0AB7F93B108D74D60B161E3; qqmusic_guid=80000155; rv2=8024CE21EE3CAC13CE9682936A01DB9583E83CBDE81F20C320; property20=A552E6A07B9C53394C1648BCE0139F6CC2BB420FA863F60054C692B4730BAAF98D85DC740480B4DF; pgv_pvi=6056730624; _ga=GA1.2.2085556529.1516793581; verifysession=h0151abc04773c46d45cd97a1b6b6763b6033783b07fb0d3d56249921ed54708995052f872ab668c0d3; o_cookie=272510488; ptui_loginuin=2665515812; uin=o2665515812; skey=@2KkQb3Nq1; pt2gguin=o2665515812; ptisp=ctc; ptcz=00b79e167ca0459a3e41a68f0762ef0e9738cabd2450a15a5c68d84046fa1b80; portalversion=new; _qddaz=QD.anpwkv.wzdi9v.j9yzmi81; pgv_info=ssid=s4259692687&pgvReferrer=&ssi=s7305288325; pgv_pvid=9528290847; dm_cookie=version=new&log_type=internal_click&ssid=s4259692687&pvid=9528290847&qq=2665515812&loadtime=2728&url=http%3A%2F%2Fe.qq.com%2Fads%2F&gdt_refer=e.qq.com&gdt_full_refer=http%3A%2F%2Fe.qq.com%2Fgaea%2Findex&gdt_original_refer=e.qq.com&gdt_original_full_refer=http%3A%2F%2Fe.qq.com%2Fgaea%2Findex&gdt_from=&uid=44059&hottag=gaea&hottagtype=header; site_type=new; hottag=gaea; hottagtype=header; _qddab=3-ly2g1y.jcvhvv55",
+                "disabled": false
+              },
+              {
+                "key": "DNT",
+                "value": "1",
+                "disabled": false
+              },
+              {
+                "key": "Accept-Encoding",
+                "value": "gzip, deflate",
+                "disabled": false
+              },
+              {
+                "key": "Accept-Language",
+                "value": "zh-CN,zh;q=0.8,en;q=0.6",
+                "disabled": false
+              },
+              {
+                "key": "User-Agent",
+                "value": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36",
+                "disabled": false
+              },
+              {
+                "key": "Accept",
+                "value": "application/json, text/javascript, */*; q=0.01",
+                "disabled": false
+              },
+              {
+                "key": "Referer",
+                "value": "http://e.qq.com/atlas/5061976/ad/create",
+                "disabled": false
+              },
+              {
+                "key": "X-Requested-With",
+                "value": "XMLHttpRequest",
+                "disabled": false
+              },
+              {
+                "key": "Connection",
+                "value": "keep-alive",
+                "disabled": false
+              }
+            ],
+            "body": {},
+            "url": {
+              "raw": "http://e.qq.com/phoenix/api.php?mod=targeting&act=gettargetingpackagelist&&g_tk=545098371&advertiser_id=5061976&product_type=30&unicode=true",
+              "protocol": "http",
+              "host": [
+                "e",
+                "qq",
+                "com"
+              ],
+              "path": [
+                "phoenix",
+                "api.php"
+              ],
+              "query": [
+                {
+                  "key": "mod",
+                  "value": "targeting",
+                  "equals": true
+                },
+                {
+                  "key": "act",
+                  "value": "gettargetingpackagelist",
+                  "equals": true
+                },
+                {
+                  "key": "g_tk",
+                  "value": "545098371",
+                  "equals": true
+                },
+                {
+                  "key": "advertiser_id",
+                  "value": "5061976",
+                  "equals": true
+                },
+                {
+                  "key": "product_type",
+                  "value": "30",
+                  "equals": true
+                },
+                {
+                  "key": "unicode",
+                  "value": "true",
+                  "equals": true
+                },
+                {
+                  "key": null,
+                  "value": null
+                }
+              ]
+            }
+          },
+          "status": "OK",
+          "code": 200,
+          "_postman_previewlanguage": "html",
+          "header": [
+            {
+              "key": "Access-Control-Allow-Origin",
+              "value": "https://developers.e.qq.com",
+              "name": "Access-Control-Allow-Origin",
+              "description": ""
+            },
+            {
+              "key": "Cache-Control",
+              "value": "no-cache, must-revalidate",
+              "name": "Cache-Control",
+              "description": ""
+            },
+            {
+              "key": "Connection",
+              "value": "keep-alive",
+              "name": "Connection",
+              "description": ""
+            },
+            {
+              "key": "Content-Encoding",
+              "value": "gzip",
+              "name": "Content-Encoding",
+              "description": ""
+            },
+            {
+              "key": "Content-Security-Policy-Report-Only",
+              "value": "default-src f.gdt.isd.com *.qq.com *.gtimg.cn *.gtimg.com *.idqqimg.com *.tenpay.com *.qpic.cn 'self' 'unsafe-inline' 'unsafe-eval' blob: data: filesystem: ; connect-src * blob: data: filesystem: ; form-action * blob: data: filesystem: ; child-src * blob: data: filesystem: ; frame-src * blob: data: filesystem: ;  img-src * blob: data: filesystem: ; font-src * blob: data: filesystem: ; report-uri http://e.qq.com/ec/api.php?mod=monitor&act=sendcspreport;",
+              "name": "Content-Security-Policy-Report-Only",
+              "description": ""
+            },
+            {
+              "key": "Content-Type",
+              "value": "text/html; charset=utf-8",
+              "name": "Content-Type",
+              "description": ""
+            },
+            {
+              "key": "Date",
+              "value": "Fri, 26 Jan 2018 09:32:29 GMT",
+              "name": "Date",
+              "description": ""
+            },
+            {
+              "key": "Expires",
+              "value": "-1",
+              "name": "Expires",
+              "description": ""
+            },
+            {
+              "key": "Server",
+              "value": "nginx",
+              "name": "Server",
+              "description": ""
+            },
+            {
+              "key": "Transfer-Encoding",
+              "value": "chunked",
+              "name": "Transfer-Encoding",
+              "description": ""
+            },
+            {
+              "key": "Vary",
+              "value": "Accept-Encoding",
+              "name": "Vary",
+              "description": ""
+            }
+          ],
+          "cookie": [],
+          "responseTime": "447",
+          "body": "{\"ret\":0,\"msg\":\"\",\"data\":{\"list\":[{\"adtarget_id\":28289140,\"targeting_package_name\":\"1.02-\\u4e0a\\u4e0b\\u88c5\",\"targeting_package_desc\":\"\"},{\"adtarget_id\":27773415,\"targeting_package_name\":\"12.22 \\u7535\\u5546\\u65e0\\u5b9a\\u5411\",\"targeting_package_desc\":\"\"},{\"adtarget_id\":27772727,\"targeting_package_name\":\"12.22-\\u7537\\u58eb\\u7bb1\\u5305\\u65e0\\u5e74\\u9f84\",\"targeting_package_desc\":\"\"},{\"adtarget_id\":27657572,\"targeting_package_name\":\"12.21-30\\u5c81\\u4ee5\\u4e0a+\\u670d\\u9970\\u7c7b\",\"targeting_package_desc\":\"\"},{\"adtarget_id\":27494614,\"targeting_package_name\":\"12.19-30\\u4ee5\\u4e0a\\u670d\\u9970\",\"targeting_package_desc\":\"\"},{\"adtarget_id\":27494531,\"targeting_package_name\":\"12.19-49\\u4ee5\\u4e0a\\u7535\\u5546\",\"targeting_package_desc\":\"\"},{\"adtarget_id\":27471328,\"targeting_package_name\":\"12.19-\\u7535\\u5546\\u4ed8\\u8d39\",\"targeting_package_desc\":\"\"},{\"adtarget_id\":27397787,\"targeting_package_name\":\"12.18-30\\u5c81\\u4ee5\\u4e0a\",\"targeting_package_desc\":\"\"},{\"adtarget_id\":27330649,\"targeting_package_name\":\"12.16 \\u767e\\u4e07\\u57fa\\u6570\\u5b9a\\u5411\",\"targeting_package_desc\":\"\"},{\"adtarget_id\":27152176,\"targeting_package_name\":\"12.13-\\u751f\\u6d3b\\u670d\\u52a1\",\"targeting_package_desc\":\"\"},{\"adtarget_id\":26584888,\"targeting_package_name\":\"12.05-\\u7537\\u88c5\",\"targeting_package_desc\":\"\"}],\"conf\":{\"totalnum\":11,\"pagesize\":60,\"totalpage\":1,\"page\":1}}}"
+        }
+      ]
+    },
+    {
+      "_postman_id": "5c864f34-bc52-c93a-df5f-c712128674e6",
+      "name": "http://e.qq.com/phoenix/api.php?mod=targeting&act=readtargetingpackage&&g_tk=545098371&advertiser_id=5061976&adtarget_id=27772727&product_type=30&unicode=true",
+      "request": {
+        "method": "GET",
+        "header": [
+          {
+            "key": "Cookie",
+            "value": "RK=iEN+AFvaGI; pac_uid=1_272510488; eas_sid=o8OLMkN31gUFLvILuPeWCXz7Y5; __root_domain_v=.e.qq.com; gr_user_id=f243960a-f1da-4484-b445-b99d1e473095; LW_uid=U1J5u1B141J8u5p2C8Z5a0E8r3; LW_sid=E1a5Y111A1m835m3h2U0e2g2R7; pgv_si=s8482683904; cuid=8534091008; _qpsvr_localtk=0.5284608901025567; tvfe_boss_uuid=0054a9f500a603af; gdt_refer=e.qq.com; gdt_full_refer=http%3A%2F%2Fe.qq.com%2Fgaea%2Findex; gdt_original_refer=e.qq.com; gdt_original_full_refer=http%3A%2F%2Fe.qq.com%2Fgaea%2Findex; atlas_platform=atlas; qqmusic_uin=0272510488; qqmusic_key=@jEF9mqwPj; qqmusic_fromtag=6; qqmusic_vkey=EE954FD1405AC1C9B39627B43CC4AE780F3B91E988E80654EA01CFCF6780E5E20DA2BD3951694A60D4DF955AA0AB7F93B108D74D60B161E3; qqmusic_guid=80000155; rv2=8024CE21EE3CAC13CE9682936A01DB9583E83CBDE81F20C320; property20=A552E6A07B9C53394C1648BCE0139F6CC2BB420FA863F60054C692B4730BAAF98D85DC740480B4DF; pgv_pvi=6056730624; _ga=GA1.2.2085556529.1516793581; verifysession=h0151abc04773c46d45cd97a1b6b6763b6033783b07fb0d3d56249921ed54708995052f872ab668c0d3; o_cookie=272510488; ptui_loginuin=2665515812; uin=o2665515812; skey=@2KkQb3Nq1; pt2gguin=o2665515812; ptisp=ctc; ptcz=00b79e167ca0459a3e41a68f0762ef0e9738cabd2450a15a5c68d84046fa1b80; portalversion=new; _qddaz=QD.anpwkv.wzdi9v.j9yzmi81; pgv_info=ssid=s4259692687&pgvReferrer=&ssi=s7305288325; pgv_pvid=9528290847; dm_cookie=version=new&log_type=internal_click&ssid=s4259692687&pvid=9528290847&qq=2665515812&loadtime=2728&url=http%3A%2F%2Fe.qq.com%2Fads%2F&gdt_refer=e.qq.com&gdt_full_refer=http%3A%2F%2Fe.qq.com%2Fgaea%2Findex&gdt_original_refer=e.qq.com&gdt_original_full_refer=http%3A%2F%2Fe.qq.com%2Fgaea%2Findex&gdt_from=&uid=44059&hottag=gaea&hottagtype=header; site_type=new; hottag=gaea; hottagtype=header; _qddab=3-ly2g1y.jcvhvv55"
+          },
+          {
+            "key": "DNT",
+            "value": "1"
+          },
+          {
+            "key": "Accept-Encoding",
+            "value": "gzip, deflate"
+          },
+          {
+            "key": "Accept-Language",
+            "value": "zh-CN,zh;q=0.8,en;q=0.6"
+          },
+          {
+            "key": "User-Agent",
+            "value": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36"
+          },
+          {
+            "key": "Accept",
+            "value": "application/json, text/javascript, */*; q=0.01"
+          },
+          {
+            "key": "Referer",
+            "value": "http://e.qq.com/atlas/5061976/ad/create"
+          },
+          {
+            "key": "X-Requested-With",
+            "value": "XMLHttpRequest"
+          },
+          {
+            "key": "Connection",
+            "value": "keep-alive"
+          }
+        ],
+        "body": {},
+        "url": {
+          "raw": "http://e.qq.com/phoenix/api.php?mod=targeting&act=readtargetingpackage&&g_tk=545098371&advertiser_id=5061976&adtarget_id=27772727&product_type=30&unicode=true",
+          "protocol": "http",
+          "host": [
+            "e",
+            "qq",
+            "com"
+          ],
+          "path": [
+            "phoenix",
+            "api.php"
+          ],
+          "query": [
+            {
+              "key": "mod",
+              "value": "targeting",
+              "equals": true
+            },
+            {
+              "key": "act",
+              "value": "readtargetingpackage",
+              "equals": true
+            },
+            {
+              "key": "g_tk",
+              "value": "545098371",
+              "equals": true
+            },
+            {
+              "key": "advertiser_id",
+              "value": "5061976",
+              "equals": true
+            },
+            {
+              "key": "adtarget_id",
+              "value": "27772727",
+              "equals": true
+            },
+            {
+              "key": "product_type",
+              "value": "30",
+              "equals": true
+            },
+            {
+              "key": "unicode",
+              "value": "true",
+              "equals": true
+            },
+            {
+              "key": null,
+              "value": null
+            }
+          ]
+        },
+        "description": "Generated from a curl request: \ncurl 'http://e.qq.com/phoenix/api.php?mod=targeting&act=readtargetingpackage&&g_tk=545098371&advertiser_id=5061976&adtarget_id=27772727&product_type=30&unicode=true' -H 'Cookie: RK=iEN+AFvaGI; pac_uid=1_272510488; eas_sid=o8OLMkN31gUFLvILuPeWCXz7Y5; __root_domain_v=.e.qq.com; gr_user_id=f243960a-f1da-4484-b445-b99d1e473095; LW_uid=U1J5u1B141J8u5p2C8Z5a0E8r3; LW_sid=E1a5Y111A1m835m3h2U0e2g2R7; pgv_si=s8482683904; cuid=8534091008; _qpsvr_localtk=0.5284608901025567; tvfe_boss_uuid=0054a9f500a603af; gdt_refer=e.qq.com; gdt_full_refer=http%3A%2F%2Fe.qq.com%2Fgaea%2Findex; gdt_original_refer=e.qq.com; gdt_original_full_refer=http%3A%2F%2Fe.qq.com%2Fgaea%2Findex; atlas_platform=atlas; qqmusic_uin=0272510488; qqmusic_key=@jEF9mqwPj; qqmusic_fromtag=6; qqmusic_vkey=EE954FD1405AC1C9B39627B43CC4AE780F3B91E988E80654EA01CFCF6780E5E20DA2BD3951694A60D4DF955AA0AB7F93B108D74D60B161E3; qqmusic_guid=80000155; rv2=8024CE21EE3CAC13CE9682936A01DB9583E83CBDE81F20C320; property20=A552E6A07B9C53394C1648BCE0139F6CC2BB420FA863F60054C692B4730BAAF98D85DC740480B4DF; pgv_pvi=6056730624; _ga=GA1.2.2085556529.1516793581; verifysession=h0151abc04773c46d45cd97a1b6b6763b6033783b07fb0d3d56249921ed54708995052f872ab668c0d3; o_cookie=272510488; ptui_loginuin=2665515812; uin=o2665515812; skey=@2KkQb3Nq1; pt2gguin=o2665515812; ptisp=ctc; ptcz=00b79e167ca0459a3e41a68f0762ef0e9738cabd2450a15a5c68d84046fa1b80; portalversion=new; _qddaz=QD.anpwkv.wzdi9v.j9yzmi81; pgv_info=ssid=s4259692687&pgvReferrer=&ssi=s7305288325; pgv_pvid=9528290847; dm_cookie=version=new&log_type=internal_click&ssid=s4259692687&pvid=9528290847&qq=2665515812&loadtime=2728&url=http%3A%2F%2Fe.qq.com%2Fads%2F&gdt_refer=e.qq.com&gdt_full_refer=http%3A%2F%2Fe.qq.com%2Fgaea%2Findex&gdt_original_refer=e.qq.com&gdt_original_full_refer=http%3A%2F%2Fe.qq.com%2Fgaea%2Findex&gdt_from=&uid=44059&hottag=gaea&hottagtype=header; site_type=new; hottag=gaea; hottagtype=header; _qddab=3-ly2g1y.jcvhvv55' -H 'DNT: 1' -H 'Accept-Encoding: gzip, deflate' -H 'Accept-Language: zh-CN,zh;q=0.8,en;q=0.6' -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36' -H 'Accept: application/json, text/javascript, */*; q=0.01' -H 'Referer: http://e.qq.com/atlas/5061976/ad/create' -H 'X-Requested-With: XMLHttpRequest' -H 'Connection: keep-alive' --compressed"
+      },
       "response": []
     }
   ]
