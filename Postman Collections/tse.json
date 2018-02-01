@@ -3758,6 +3758,99 @@ wZ´5PF¡	Plø\",\"uid\":5916759,\"status\":3,\"regdate\":\"2017-09-21 09:34\",\"co
         "description": "Generated from a curl request: \ncurl 'http://e.qq.com/phoenix/api.php?mod=order&act=create&&g_tk=1271086855&advertiser_id=5061976&post_format=json' -H 'Cookie: RK=iEN+AFvaGI; pac_uid=1_272510488; eas_sid=o8OLMkN31gUFLvILuPeWCXz7Y5; __root_domain_v=.e.qq.com; gr_user_id=f243960a-f1da-4484-b445-b99d1e473095; LW_uid=U1J5u1B141J8u5p2C8Z5a0E8r3; LW_sid=E1a5Y111A1m835m3h2U0e2g2R7; pgv_si=s8482683904; cuid=8534091008; _qpsvr_localtk=0.5284608901025567; tvfe_boss_uuid=0054a9f500a603af; gdt_refer=e.qq.com; gdt_full_refer=http%3A%2F%2Fe.qq.com%2Fgaea%2Findex; gdt_original_refer=e.qq.com; gdt_original_full_refer=http%3A%2F%2Fe.qq.com%2Fgaea%2Findex; atlas_platform=atlas; qqmusic_uin=0272510488; qqmusic_key=@jEF9mqwPj; qqmusic_fromtag=6; qqmusic_vkey=EE954FD1405AC1C9B39627B43CC4AE780F3B91E988E80654EA01CFCF6780E5E20DA2BD3951694A60D4DF955AA0AB7F93B108D74D60B161E3; qqmusic_guid=80000155; rv2=8024CE21EE3CAC13CE9682936A01DB9583E83CBDE81F20C320; property20=A552E6A07B9C53394C1648BCE0139F6CC2BB420FA863F60054C692B4730BAAF98D85DC740480B4DF; pgv_pvi=6056730624; _ga=GA1.2.2085556529.1516793581; verifysession=h0151abc04773c46d45cd97a1b6b6763b6033783b07fb0d3d56249921ed54708995052f872ab668c0d3; o_cookie=272510488; _qddamta_2852062940=3-0; ptui_loginuin=2665515812; uin=o2665515812; skey=@GeZjji0w8; pt2gguin=o2665515812; ptisp=ctc; ptcz=00b79e167ca0459a3e41a68f0762ef0e9738cabd2450a15a5c68d84046fa1b80; portalversion=new; _qddaz=QD.anpwkv.wzdi9v.j9yzmi81; pgv_info=ssid=s4259692687&pgvReferrer=&ssi=s7305288325; pgv_pvid=9528290847; dm_cookie=version=new&log_type=internal_click&ssid=s4259692687&pvid=9528290847&qq=2665515812&loadtime=2770&url=http%3A%2F%2Fe.qq.com%2Fads%2F%3Frefer%3Dhttp%3A%2F%2Fe.qq.com%2Fatlas%2F5061976%2Freport%2Forder%253foid%3D44690828&gdt_refer=e.qq.com&gdt_full_refer=http%3A%2F%2Fe.qq.com%2Fgaea%2Findex&gdt_original_refer=e.qq.com&gdt_original_full_refer=http%3A%2F%2Fe.qq.com%2Fgaea%2Findex&gdt_from=&uid=44059&hottag=gaea&hottagtype=header; site_type=new; hottag=gaea; hottagtype=header; _qddab=3-3ceyfz.jczizi4q' -H 'Origin: http://e.qq.com' -H 'Accept-Encoding: gzip, deflate' -H 'Accept-Language: zh-CN,zh;q=0.8,en;q=0.6' -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36' -H 'Content-Type: application/json' -H 'Accept: application/json, text/javascript, */*; q=0.01' -H 'Referer: http://e.qq.com/atlas/5061976/ad/create' -H 'X-Requested-With: XMLHttpRequest' -H 'Connection: keep-alive' -H 'DNT: 1' --data-binary $'{\\\"campaign\\\":{\\\"campaign_id\\\":9402358},\\\"creatives\\\":{\\\"472_27\\\":[{\\\"tname\\\":\\\"\\u521b\\u610f1\\\",\\\"status\\\":2,\\\"template_optimizer_type\\\":0,\\\"creative_elements\\\":{\\\"image\\\":\\\"5061976:0ea6be732c43228f80a24cef6e474b6a\\\",\\\"title\\\":\\\"\\u6d4b\\u8bd5\\u6587\\u6848\\u5185\\u5bb9\\\",\\\"corporate\\\":{\\\"corporate_name\\\":\\\"\\u6d4b\\u8bd5\\u5e7f\\u544a\\u4e3b\\\"},\\\"dest_url\\\":\\\"http://ec.flzhan.cn/?r_id=197676770_6a431565a&pagetype=SINGLE&_bid=2759\\\"}}]},\\\"adgroup\\\":{\\\"dynamic_product_ad_format\\\":0,\\\"dynamic_product_id\\\":\\\"\\\",\\\"dynamic_product_labels\\\":[],\\\"recommend_root_id\\\":\\\"\\\",\\\"recommend_child_ids\\\":[],\\\"landing_page_url\\\":\\\"\\\",\\\"dest_url\\\":\\\"\\\",\\\"platform_type\\\":2,\\\"cost_type\\\":1,\\\"max_impression_include\\\":\\\"\\\",\\\"min_impression_include\\\":\\\"\\\",\\\"optimization_goal\\\":204,\\\"cost_price\\\":1000,\\\"core_position_percent\\\":0,\\\"core_position_price\\\":0,\\\"use_core_position\\\":0,\\\"adgroup_name\\\":\\\"\\u817e\\u8baf\\u65b0\\u95fb-640\\xd7246\\u5355\\u56fe(\\u6587)-20180129-tr\\u6d4b\\u8bd5\\\",\\\"begin_date\\\":\\\"2018/06/13\\\",\\\"end_date\\\":\\\"\\\",\\\"time_set\\\":\\\"111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111\\\"},\\\"product\\\":{\\\"landing_page_type\\\":1,\\\"product_id\\\":16863},\\\"subordinate_product\\\":{\\\"subordinate_product_id\\\":\\\"\\\"},\\\"adtarget\\\":{\\\"original_data\\\":{}}}' --compressed"
       },
       "response": []
+    },
+    {
+      "_postman_id": "0f1d8907-f669-a4ed-ccbc-97b3c0e30671",
+      "name": "·ÖþG",
+      "request": {
+        "method": "GET",
+        "header": [
+          {
+            "key": "DNT",
+            "value": "1"
+          },
+          {
+            "key": "Accept-Encoding",
+            "value": "gzip, deflate"
+          },
+          {
+            "key": "Accept-Language",
+            "value": "zh-CN,zh;q=0.8,en;q=0.6"
+          },
+          {
+            "key": "User-Agent",
+            "value": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36"
+          },
+          {
+            "key": "Accept",
+            "value": "image/webp,image/apng,image/*,*/*;q=0.8"
+          },
+          {
+            "key": "Referer",
+            "value": "http://e.qq.com/atlas/5061976/ad/create"
+          },
+          {
+            "key": "Cookie",
+            "value": "RK=iEN+AFvaGI; pac_uid=1_272510488; eas_sid=o8OLMkN31gUFLvILuPeWCXz7Y5; __root_domain_v=.e.qq.com; gr_user_id=f243960a-f1da-4484-b445-b99d1e473095; LW_uid=U1J5u1B141J8u5p2C8Z5a0E8r3; LW_sid=E1a5Y111A1m835m3h2U0e2g2R7; pgv_si=s8482683904; cuid=8534091008; _qpsvr_localtk=0.5284608901025567; tvfe_boss_uuid=0054a9f500a603af; gdt_refer=e.qq.com; gdt_full_refer=http%3A%2F%2Fe.qq.com%2Fgaea%2Findex; gdt_original_refer=e.qq.com; gdt_original_full_refer=http%3A%2F%2Fe.qq.com%2Fgaea%2Findex; atlas_platform=atlas; qqmusic_uin=0272510488; qqmusic_key=@jEF9mqwPj; qqmusic_fromtag=6; qqmusic_vkey=EE954FD1405AC1C9B39627B43CC4AE780F3B91E988E80654EA01CFCF6780E5E20DA2BD3951694A60D4DF955AA0AB7F93B108D74D60B161E3; qqmusic_guid=80000155; rv2=8024CE21EE3CAC13CE9682936A01DB9583E83CBDE81F20C320; property20=A552E6A07B9C53394C1648BCE0139F6CC2BB420FA863F60054C692B4730BAAF98D85DC740480B4DF; pgv_pvi=6056730624; _ga=GA1.2.2085556529.1516793581; verifysession=h0151abc04773c46d45cd97a1b6b6763b6033783b07fb0d3d56249921ed54708995052f872ab668c0d3; o_cookie=272510488; _tucao_userinfo=VE0ycTVmOFZld1FEa09vTDRnUTlOcnFTcUFuWWdRYVkxQ24vWkUvbFdKZ3A5NC9nOFhONjhub2lvTjRHRDg5ZS9BaVJOTmJrUDhoSDZodCtNbzVBK0xwS0tOMGYwNHBEY3owaThwUCtCVmJ1WjgrYU45ckEyTjlPcFJlVlhrYnJwcThsTDd4bS93ZEVQbEl2SXMraEwyRDgxc0FvL1lzaWFHM3dNNUIrSmNyMnBPWEZZMUNjdFV1SW9nTXlkb2w5WE1xbER4Q1hESHdkN1c3Y2cvMFhiQkQybzFzNStrMEZ1bXVUQmlnZjFMdkNUYm9yZDZUVVJ0K3dSTGJIQ1RudUNYalFRYXJ0UmN2eHdyY0hsTHBiT0E9PQ%3D%3D--HGSg0ZFqpAbu%2F5uZXjMBPw%3D%3D; _tucao_session=aFVNbzFFUmZXMi81Q1F5THNPaE1vT2NmNE9HQ2tYL0NUV3lWVnJBb1g3dStxbFQ4ZGNTTUpoUDFtQkQrTHRWekprMEtGL0xCdjhHenJtTnhKZ3Q5WGhtNE1XOG15NnNlYzdDUWUzMjZiZFRLYzJiTVhHSGtCUEthRlN3VDhhYTZvMzJRbTlsekV1MFhYR2Y4M1hXeGwrSnMvZkdaMVVmekJma3hzdVozNlU5cEtVaXlGTWgzZ0Q0UGZ3S2g0Mi9kNUtpZk9id0czdzdnY2JsOW9obFgxRllWQUc1OHhYRmNOcTJEcGxvcmhVNXBHUmwxNXZCaVQ3T2xVRk9JdXpiaE9pNHl4a0VhUUdsZFM1TTNNbXFZVkRmQ1dpS3J2emQ4a2E5S1hqWWhITjBCZ1ZqMFRMWHYvY3drN2FVVXlrdWJnVFRyMitkRjY4aHNiWkVLTEJWN3NnPT0%3D--aPqo8uFDl58v3OWEWDuOSQ%3D%3D; _qddamta_2852062940=3-0; gr_session_id_8751e4ce852fb210=24b42f4e-5050-4d0f-8eb9-36fb5a4ae440; ptui_loginuin=2665515812; uin=o2665515812; skey=@3lglW0lRt; pt2gguin=o2665515812; ptisp=cnc; ptcz=00b79e167ca0459a3e41a68f0762ef0e9738cabd2450a15a5c68d84046fa1b80; portalversion=new; _qddaz=QD.anpwkv.wzdi9v.j9yzmi81; _qdda=3-1.7s7e6; _qddab=3-ctiqjg.jd4ao3jj; pgv_info=ssid=s4259692687&pgvReferrer=&ssi=s7305288325; pgv_pvid=9528290847; dm_cookie=version=new&log_type=internal_click&ssid=s4259692687&pvid=9528290847&qq=2665515812&loadtime=12671&url=http%3A%2F%2Fe.qq.com%2Fads%2F&gdt_refer=e.qq.com&gdt_full_refer=http%3A%2F%2Fe.qq.com%2Fgaea%2Findex&gdt_original_refer=e.qq.com&gdt_original_full_refer=http%3A%2F%2Fe.qq.com%2Fgaea%2Findex&gdt_from=&uid=44059; site_type=new; hottag=login; hottagtype=header"
+          },
+          {
+            "key": "Proxy-Connection",
+            "value": "keep-alive"
+          }
+        ],
+        "body": {},
+        "url": {
+          "raw": "http://e.qq.com/phoenix/api.php?mod=resource&act=show&resource_type=image&resource_id=5061976:febb9c66fb7a7803377f8871f222cb75&&g_tk=331385776&advertiser_id=5061976",
+          "protocol": "http",
+          "host": [
+            "e",
+            "qq",
+            "com"
+          ],
+          "path": [
+            "phoenix",
+            "api.php"
+          ],
+          "query": [
+            {
+              "key": "mod",
+              "value": "resource",
+              "equals": true
+            },
+            {
+              "key": "act",
+              "value": "show",
+              "equals": true
+            },
+            {
+              "key": "resource_type",
+              "value": "image",
+              "equals": true
+            },
+            {
+              "key": "resource_id",
+              "value": "5061976:febb9c66fb7a7803377f8871f222cb75",
+              "equals": true
+            },
+            {
+              "key": "g_tk",
+              "value": "331385776",
+              "equals": true
+            },
+            {
+              "key": "advertiser_id",
+              "value": "5061976",
+              "equals": true
+            },
+            {
+              "key": null,
+              "value": null
+            }
+          ]
+        },
+        "description": "Generated from a curl request: \ncurl 'http://e.qq.com/phoenix/api.php?mod=resource&act=show&resource_type=image&resource_id=5061976:febb9c66fb7a7803377f8871f222cb75&&g_tk=331385776&advertiser_id=5061976' -H 'DNT: 1' -H 'Accept-Encoding: gzip, deflate' -H 'Accept-Language: zh-CN,zh;q=0.8,en;q=0.6' -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36' -H 'Accept: image/webp,image/apng,image/*,*/*;q=0.8' -H 'Referer: http://e.qq.com/atlas/5061976/ad/create' -H 'Cookie: RK=iEN+AFvaGI; pac_uid=1_272510488; eas_sid=o8OLMkN31gUFLvILuPeWCXz7Y5; __root_domain_v=.e.qq.com; gr_user_id=f243960a-f1da-4484-b445-b99d1e473095; LW_uid=U1J5u1B141J8u5p2C8Z5a0E8r3; LW_sid=E1a5Y111A1m835m3h2U0e2g2R7; pgv_si=s8482683904; cuid=8534091008; _qpsvr_localtk=0.5284608901025567; tvfe_boss_uuid=0054a9f500a603af; gdt_refer=e.qq.com; gdt_full_refer=http%3A%2F%2Fe.qq.com%2Fgaea%2Findex; gdt_original_refer=e.qq.com; gdt_original_full_refer=http%3A%2F%2Fe.qq.com%2Fgaea%2Findex; atlas_platform=atlas; qqmusic_uin=0272510488; qqmusic_key=@jEF9mqwPj; qqmusic_fromtag=6; qqmusic_vkey=EE954FD1405AC1C9B39627B43CC4AE780F3B91E988E80654EA01CFCF6780E5E20DA2BD3951694A60D4DF955AA0AB7F93B108D74D60B161E3; qqmusic_guid=80000155; rv2=8024CE21EE3CAC13CE9682936A01DB9583E83CBDE81F20C320; property20=A552E6A07B9C53394C1648BCE0139F6CC2BB420FA863F60054C692B4730BAAF98D85DC740480B4DF; pgv_pvi=6056730624; _ga=GA1.2.2085556529.1516793581; verifysession=h0151abc04773c46d45cd97a1b6b6763b6033783b07fb0d3d56249921ed54708995052f872ab668c0d3; o_cookie=272510488; _tucao_userinfo=VE0ycTVmOFZld1FEa09vTDRnUTlOcnFTcUFuWWdRYVkxQ24vWkUvbFdKZ3A5NC9nOFhONjhub2lvTjRHRDg5ZS9BaVJOTmJrUDhoSDZodCtNbzVBK0xwS0tOMGYwNHBEY3owaThwUCtCVmJ1WjgrYU45ckEyTjlPcFJlVlhrYnJwcThsTDd4bS93ZEVQbEl2SXMraEwyRDgxc0FvL1lzaWFHM3dNNUIrSmNyMnBPWEZZMUNjdFV1SW9nTXlkb2w5WE1xbER4Q1hESHdkN1c3Y2cvMFhiQkQybzFzNStrMEZ1bXVUQmlnZjFMdkNUYm9yZDZUVVJ0K3dSTGJIQ1RudUNYalFRYXJ0UmN2eHdyY0hsTHBiT0E9PQ%3D%3D--HGSg0ZFqpAbu%2F5uZXjMBPw%3D%3D; _tucao_session=aFVNbzFFUmZXMi81Q1F5THNPaE1vT2NmNE9HQ2tYL0NUV3lWVnJBb1g3dStxbFQ4ZGNTTUpoUDFtQkQrTHRWekprMEtGL0xCdjhHenJtTnhKZ3Q5WGhtNE1XOG15NnNlYzdDUWUzMjZiZFRLYzJiTVhHSGtCUEthRlN3VDhhYTZvMzJRbTlsekV1MFhYR2Y4M1hXeGwrSnMvZkdaMVVmekJma3hzdVozNlU5cEtVaXlGTWgzZ0Q0UGZ3S2g0Mi9kNUtpZk9id0czdzdnY2JsOW9obFgxRllWQUc1OHhYRmNOcTJEcGxvcmhVNXBHUmwxNXZCaVQ3T2xVRk9JdXpiaE9pNHl4a0VhUUdsZFM1TTNNbXFZVkRmQ1dpS3J2emQ4a2E5S1hqWWhITjBCZ1ZqMFRMWHYvY3drN2FVVXlrdWJnVFRyMitkRjY4aHNiWkVLTEJWN3NnPT0%3D--aPqo8uFDl58v3OWEWDuOSQ%3D%3D; _qddamta_2852062940=3-0; gr_session_id_8751e4ce852fb210=24b42f4e-5050-4d0f-8eb9-36fb5a4ae440; ptui_loginuin=2665515812; uin=o2665515812; skey=@3lglW0lRt; pt2gguin=o2665515812; ptisp=cnc; ptcz=00b79e167ca0459a3e41a68f0762ef0e9738cabd2450a15a5c68d84046fa1b80; portalversion=new; _qddaz=QD.anpwkv.wzdi9v.j9yzmi81; _qdda=3-1.7s7e6; _qddab=3-ctiqjg.jd4ao3jj; pgv_info=ssid=s4259692687&pgvReferrer=&ssi=s7305288325; pgv_pvid=9528290847; dm_cookie=version=new&log_type=internal_click&ssid=s4259692687&pvid=9528290847&qq=2665515812&loadtime=12671&url=http%3A%2F%2Fe.qq.com%2Fads%2F&gdt_refer=e.qq.com&gdt_full_refer=http%3A%2F%2Fe.qq.com%2Fgaea%2Findex&gdt_original_refer=e.qq.com&gdt_original_full_refer=http%3A%2F%2Fe.qq.com%2Fgaea%2Findex&gdt_from=&uid=44059; site_type=new; hottag=login; hottagtype=header' -H 'Proxy-Connection: keep-alive' --compressed"
+      },
+      "response": []
     }
   ]
 }
