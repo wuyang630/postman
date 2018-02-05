@@ -263,6 +263,181 @@
           "responseTime": "693",
           "body": "{\"ret\":0,\"msg\":\"\",\"data\":{\"list\":[{\"corporationname\":\"
 wZ¥5PF°	Pl¯\",\"uid\":5916759,\"status\":3,\"regdate\":\"2017-09-21 09:34\",\"comment\":\"\",\"cash\":0,\"coupons\":0,\"totalbalance\":0,\"costofday\":0,\"daylimit\":1000000,\"costpercent\":0,\"operatorcount\":2,\"email\":\"\",\"iskauser\":0,\"credit\":\"-\"},{\"corporationname\":\"út,Âv˜	Pl¯\",\"uid\":5909293,\"status\":1,\"regdate\":\"2017-09-20 17:04\",\"comment\":\"\",\"cash\":270088,\"coupons\":0,\"totalbalance\":270459,\"costofday\":408,\"daylimit\":100000,\"costpercent\":0.00408,\"operatorcount\":6,\"email\":\"\",\"iskauser\":0,\"credit\":371},{\"corporationname\":\"èﬁöç8	Pl¯\",\"uid\":5908910,\"status\":1,\"regdate\":\"2017-09-20 16:45\",\"comment\":\"\",\"cash\":490000,\"coupons\":0,\"totalbalance\":490000,\"costofday\":0,\"daylimit\":1000000,\"costpercent\":0,\"operatorcount\":6,\"email\":\"\",\"iskauser\":0,\"credit\":\"-\"},{\"corporationname\":\"iyËQ‹Ä/()%)	Pl¯\",\"uid\":5890374,\"status\":1,\"regdate\":\"2017-09-19 15:16\",\"comment\":\"\",\"cash\":0,\"coupons\":0,\"totalbalance\":0,\"costofday\":0,\"daylimit\":170000,\"costpercent\":0,\"operatorcount\":2,\"email\":\"\",\"iskauser\":0,\"credit\":\"-\"},{\"corporationname\":\"¡F8	Pl¯\",\"uid\":5890052,\"status\":1,\"regdate\":\"2017-09-19 15:02\",\"comment\":\"\",\"cash\":1000000,\"coupons\":385349,\"totalbalance\":1385349,\"costofday\":0,\"daylimit\":200000,\"costpercent\":0,\"operatorcount\":2,\"email\":\"\",\"iskauser\":0,\"credit\":\"-\"},{\"corporationname\":\"¶Ëüı6ˆ	Pl¯\",\"uid\":5885348,\"status\":1,\"regdate\":\"2017-09-19 10:35\",\"comment\":\"\",\"cash\":600000,\"coupons\":0,\"totalbalance\":600000,\"costofday\":0,\"daylimit\":100000,\"costpercent\":0,\"operatorcount\":6,\"email\":\"\",\"iskauser\":0,\"credit\":\"-\"},{\"corporationname\":\"àŸ6	Pl¯\",\"uid\":5883937,\"status\":1,\"regdate\":\"2017-09-19 09:13\",\"comment\":\"\",\"cash\":0,\"coupons\":0,\"totalbalance\":0,\"costofday\":0,\"daylimit\":1000000,\"costpercent\":0,\"operatorcount\":3,\"email\":\"\",\"iskauser\":0,\"credit\":0},{\"corporationname\":\"ÅN·æi—Ä	Pl¯\",\"uid\":5872486,\"status\":1,\"regdate\":\"2017-09-18 14:41\",\"comment\":\"\",\"cash\":0,\"coupons\":0,\"totalbalance\":0,\"costofday\":0,\"daylimit\":100000,\"costpercent\":0,\"operatorcount\":3,\"email\":\"\",\"iskauser\":0,\"credit\":\"-\"},{\"corporationname\":\"ﬁ‡"‡p8	Pl¯\",\"uid\":5872255,\"status\":1,\"regdate\":\"2017-09-18 14:31\",\"comment\":\"\",\"cash\":0,\"coupons\":0,\"totalbalance\":542215,\"costofday\":0,\"daylimit\":200000,\"costpercent\":0,\"operatorcount\":2,\"email\":\"\",\"iskauser\":0,\"credit\":542215},{\"corporationname\":\"mﬁ›8	Pl¯\",\"uid\":5872121,\"status\":3,\"regdate\":\"2017-09-18 14:25\",\"comment\":\"\",\"cash\":0,\"coupons\":0,\"totalbalance\":0,\"costofday\":0,\"daylimit\":1000000,\"costpercent\":0,\"operatorcount\":2,\"email\":\"\",\"iskauser\":0,\"credit\":\"-\"}],\"uids\":[5916759,5909293,5908910,5890374,5890052,5885348,5883937,5872486,5872255,5872121],\"conf\":{\"page\":1,\"page_size\":10,\"total_num\":57,\"total_page\":6,\"status_map\":{\"1\":\"	H\",\"2\":\"*°8\",\"3\":\"°8«\",\"4\":\"\\",\"20\":\"Ú d\",\"50\":\"*°8Õ∞°8	\"},\"pagesize\":10,\"totalpage\":6,\"totalnum\":57}}}"
+        },
+        {
+          "id": "46972c64-1b2d-cb69-a5a6-fa1d51359527",
+          "name": "¢7h",
+          "originalRequest": {
+            "method": "GET",
+            "header": [
+              {
+                "key": "Cookie",
+                "value": "pgv_pvi=751077376; tvfe_boss_uuid=061e072f97f43b1b; RK=tMuzKJKbTS; eas_sid=y1Z5S0z5N4S6O6t0n0M5A8u1Z4; ptcz=f75eea6a1d9d513153b05ddc75a6bfa69c7691be708bea98e4e55e3596c9c055; pgv_pvid=149585280; gdt_original_refer=e.qq.com; gdt_original_full_refer=http%3A%2F%2Fe.qq.com%2F; gr_user_id=ff0fcf8e-4406-4bb3-9998-8e5978a4bb27; __root_domain_v=.e.qq.com; _qddaz=QD.5f7v7l.9v52cm.jclql52s; _ga=GA1.2.579610138.1516355317; ptui_loginuin=2665515812; o_cookie=2665515812; pt2gguin=o2665515812; pac_uid=1_2665515812; gdt_refer=e.qq.com; gdt_full_refer=http%3A%2F%2Fe.qq.com%2F; tsa_pgv_ssid=tsassid__1517728914576_604437981; site_type=new; portalversion=new; pgv_si=s8914118656; pgv_info=ssid=s1237001529; hottagtype=header; ptisp=cnc; _qdda=3-1.4m2qz; _qddab=3-md55it.jd9iqvxa; _qddamta_2852062940=3-0; uin=o2665515812; skey=@fQZoxMFSm; dm_cookie=version=new&log_type=internal_click&ssid=tsassid__1517728914576_604437981&pvid=149585280&qq=2665515812&loadtime=1277&url=http%3A%2F%2Fe.qq.com%2Fads%2F&gdt_refer=e.qq.com&gdt_full_refer=http%3A%2F%2Fe.qq.com%2F&gdt_original_refer=e.qq.com&gdt_original_full_refer=http%3A%2F%2Fe.qq.com%2F&gdt_from=&uid=44059&hottag=gaea&hottagtype=header; hottag=gaea",
+                "disabled": false
+              },
+              {
+                "key": "DNT",
+                "value": "1",
+                "disabled": false
+              },
+              {
+                "key": "Accept-Encoding",
+                "value": "gzip, deflate",
+                "disabled": false
+              },
+              {
+                "key": "Accept-Language",
+                "value": "zh-CN,zh;q=0.8,en;q=0.6",
+                "disabled": false
+              },
+              {
+                "key": "User-Agent",
+                "value": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36",
+                "disabled": false
+              },
+              {
+                "key": "Accept",
+                "value": "application/json, text/javascript, */*; q=0.01",
+                "disabled": false
+              },
+              {
+                "key": "Referer",
+                "value": "http://e.qq.com/gaea/customer/index",
+                "disabled": false
+              },
+              {
+                "key": "X-Requested-With",
+                "value": "XMLHttpRequest",
+                "disabled": false
+              },
+              {
+                "key": "Connection",
+                "value": "keep-alive",
+                "disabled": false
+              }
+            ],
+            "body": {},
+            "url": {
+              "raw": "http://e.qq.com/gaea/api.php?mod=customer&act=getlist&page=1&status=0&pagesize=10&g_tk=2118675792",
+              "protocol": "http",
+              "host": [
+                "e",
+                "qq",
+                "com"
+              ],
+              "path": [
+                "gaea",
+                "api.php"
+              ],
+              "query": [
+                {
+                  "key": "mod",
+                  "value": "customer",
+                  "equals": true
+                },
+                {
+                  "key": "act",
+                  "value": "getlist",
+                  "equals": true
+                },
+                {
+                  "key": "page",
+                  "value": "1",
+                  "equals": true
+                },
+                {
+                  "key": "status",
+                  "value": "0",
+                  "equals": true
+                },
+                {
+                  "key": "pagesize",
+                  "value": "10",
+                  "equals": true
+                },
+                {
+                  "key": "g_tk",
+                  "value": "2118675792",
+                  "equals": true
+                }
+              ]
+            }
+          },
+          "status": "OK",
+          "code": 200,
+          "_postman_previewlanguage": "html",
+          "header": [
+            {
+              "key": "Access-Control-Allow-Origin",
+              "value": "https://developers.e.qq.com",
+              "name": "Access-Control-Allow-Origin",
+              "description": ""
+            },
+            {
+              "key": "Cache-Control",
+              "value": "no-cache, must-revalidate",
+              "name": "Cache-Control",
+              "description": ""
+            },
+            {
+              "key": "Connection",
+              "value": "keep-alive",
+              "name": "Connection",
+              "description": ""
+            },
+            {
+              "key": "Content-Encoding",
+              "value": "gzip",
+              "name": "Content-Encoding",
+              "description": ""
+            },
+            {
+              "key": "Content-Security-Policy-Report-Only",
+              "value": "default-src f.gdt.isd.com *.qq.com *.gtimg.cn *.gtimg.com *.idqqimg.com *.tenpay.com *.qpic.cn 'self' 'unsafe-inline' 'unsafe-eval' blob: data: filesystem: ; connect-src * blob: data: filesystem: ; form-action * blob: data: filesystem: ; child-src * blob: data: filesystem: ; frame-src * blob: data: filesystem: ;  img-src * blob: data: filesystem: ; font-src * blob: data: filesystem: ; report-uri http://e.qq.com/ec/api.php?mod=monitor&act=sendcspreport;",
+              "name": "Content-Security-Policy-Report-Only",
+              "description": ""
+            },
+            {
+              "key": "Content-Type",
+              "value": "text/html; charset=utf-8",
+              "name": "Content-Type",
+              "description": ""
+            },
+            {
+              "key": "Date",
+              "value": "Mon, 05 Feb 2018 01:54:13 GMT",
+              "name": "Date",
+              "description": ""
+            },
+            {
+              "key": "Expires",
+              "value": "-1",
+              "name": "Expires",
+              "description": ""
+            },
+            {
+              "key": "Server",
+              "value": "nginx",
+              "name": "Server",
+              "description": ""
+            },
+            {
+              "key": "Transfer-Encoding",
+              "value": "chunked",
+              "name": "Transfer-Encoding",
+              "description": ""
+            },
+            {
+              "key": "Vary",
+              "value": "Accept-Encoding",
+              "name": "Vary",
+              "description": ""
+            }
+          ],
+          "cookie": [],
+          "responseTime": "585",
+          "body": "{\"ret\":0,\"msg\":\"\",\"data\":{\"list\":[{\"corporationname\":\"
+wZ¥5PF°	Pl¯\",\"uid\":5916759,\"status\":3,\"regdate\":\"2017-09-21 09:34\",\"comment\":\"\",\"cash\":0,\"coupons\":0,\"totalbalance\":0,\"costofday\":0,\"daylimit\":1000000,\"costpercent\":0,\"operatorcount\":2,\"email\":\"\",\"iskauser\":0,\"credit\":\"-\"},{\"corporationname\":\"út,Âv˜	Pl¯\",\"uid\":5909293,\"status\":1,\"regdate\":\"2017-09-20 17:04\",\"comment\":\"\",\"cash\":254903,\"coupons\":0,\"totalbalance\":255274,\"costofday\":607,\"daylimit\":100000,\"costpercent\":0.00607,\"operatorcount\":6,\"email\":\"\",\"iskauser\":0,\"credit\":371},{\"corporationname\":\"èﬁöç8	Pl¯\",\"uid\":5908910,\"status\":1,\"regdate\":\"2017-09-20 16:45\",\"comment\":\"\",\"cash\":490000,\"coupons\":0,\"totalbalance\":490000,\"costofday\":0,\"daylimit\":1000000,\"costpercent\":0,\"operatorcount\":6,\"email\":\"\",\"iskauser\":0,\"credit\":\"-\"},{\"corporationname\":\"iyËQ‹Ä/()%)	Pl¯\",\"uid\":5890374,\"status\":1,\"regdate\":\"2017-09-19 15:16\",\"comment\":\"\",\"cash\":0,\"coupons\":0,\"totalbalance\":0,\"costofday\":0,\"daylimit\":170000,\"costpercent\":0,\"operatorcount\":2,\"email\":\"\",\"iskauser\":0,\"credit\":\"-\"},{\"corporationname\":\"¡F8	Pl¯\",\"uid\":5890052,\"status\":1,\"regdate\":\"2017-09-19 15:02\",\"comment\":\"\",\"cash\":1000000,\"coupons\":385349,\"totalbalance\":1385349,\"costofday\":0,\"daylimit\":200000,\"costpercent\":0,\"operatorcount\":2,\"email\":\"\",\"iskauser\":0,\"credit\":\"-\"},{\"corporationname\":\"¶Ëüı6ˆ	Pl¯\",\"uid\":5885348,\"status\":1,\"regdate\":\"2017-09-19 10:35\",\"comment\":\"\",\"cash\":600000,\"coupons\":0,\"totalbalance\":600000,\"costofday\":0,\"daylimit\":100000,\"costpercent\":0,\"operatorcount\":6,\"email\":\"\",\"iskauser\":0,\"credit\":\"-\"},{\"corporationname\":\"àŸ6	Pl¯\",\"uid\":5883937,\"status\":1,\"regdate\":\"2017-09-19 09:13\",\"comment\":\"\",\"cash\":0,\"coupons\":0,\"totalbalance\":0,\"costofday\":0,\"daylimit\":1000000,\"costpercent\":0,\"operatorcount\":3,\"email\":\"\",\"iskauser\":0,\"credit\":0},{\"corporationname\":\"ÅN·æi—Ä	Pl¯\",\"uid\":5872486,\"status\":1,\"regdate\":\"2017-09-18 14:41\",\"comment\":\"\",\"cash\":0,\"coupons\":0,\"totalbalance\":0,\"costofday\":0,\"daylimit\":100000,\"costpercent\":0,\"operatorcount\":3,\"email\":\"\",\"iskauser\":0,\"credit\":\"-\"},{\"corporationname\":\"ﬁ‡"‡p8	Pl¯\",\"uid\":5872255,\"status\":1,\"regdate\":\"2017-09-18 14:31\",\"comment\":\"\",\"cash\":0,\"coupons\":0,\"totalbalance\":542215,\"costofday\":0,\"daylimit\":200000,\"costpercent\":0,\"operatorcount\":2,\"email\":\"\",\"iskauser\":0,\"credit\":542215},{\"corporationname\":\"mﬁ›8	Pl¯\",\"uid\":5872121,\"status\":3,\"regdate\":\"2017-09-18 14:25\",\"comment\":\"\",\"cash\":0,\"coupons\":0,\"totalbalance\":0,\"costofday\":0,\"daylimit\":1000000,\"costpercent\":0,\"operatorcount\":2,\"email\":\"\",\"iskauser\":0,\"credit\":\"-\"}],\"uids\":[5916759,5909293,5908910,5890374,5890052,5885348,5883937,5872486,5872255,5872121],\"conf\":{\"page\":1,\"page_size\":10,\"total_num\":57,\"total_page\":6,\"status_map\":{\"1\":\"	H\",\"2\":\"*°8\",\"3\":\"°8«\",\"4\":\"\\",\"20\":\"Ú d\",\"50\":\"*°8Õ∞°8	\"},\"pagesize\":10,\"totalpage\":6,\"totalnum\":57}}}"
         }
       ]
     },
@@ -2065,7 +2240,186 @@ wZ¥5PF°	Pl¯\",\"uid\":5916759,\"status\":3,\"regdate\":\"2017-09-21 09:34\",\"co
         },
         "description": "Generated from a curl request: \ncurl 'http://e.qq.com/phoenix/api.php?mod=resource&act=getparentimage&&g_tk=545098371&advertiser_id=5003654&sub_image_id=5003654%3A2a39ac8719410929a89020004f879820&unicode=true' -H 'Cookie: RK=iEN+AFvaGI; pac_uid=1_272510488; eas_sid=o8OLMkN31gUFLvILuPeWCXz7Y5; __root_domain_v=.e.qq.com; gr_user_id=f243960a-f1da-4484-b445-b99d1e473095; LW_uid=U1J5u1B141J8u5p2C8Z5a0E8r3; LW_sid=E1a5Y111A1m835m3h2U0e2g2R7; pgv_si=s8482683904; cuid=8534091008; _qpsvr_localtk=0.5284608901025567; tvfe_boss_uuid=0054a9f500a603af; gdt_refer=e.qq.com; gdt_full_refer=http%3A%2F%2Fe.qq.com%2Fgaea%2Findex; gdt_original_refer=e.qq.com; gdt_original_full_refer=http%3A%2F%2Fe.qq.com%2Fgaea%2Findex; atlas_platform=atlas; qqmusic_uin=0272510488; qqmusic_key=@jEF9mqwPj; qqmusic_fromtag=6; qqmusic_vkey=EE954FD1405AC1C9B39627B43CC4AE780F3B91E988E80654EA01CFCF6780E5E20DA2BD3951694A60D4DF955AA0AB7F93B108D74D60B161E3; qqmusic_guid=80000155; rv2=8024CE21EE3CAC13CE9682936A01DB9583E83CBDE81F20C320; property20=A552E6A07B9C53394C1648BCE0139F6CC2BB420FA863F60054C692B4730BAAF98D85DC740480B4DF; pgv_pvi=6056730624; _ga=GA1.2.2085556529.1516793581; verifysession=h0151abc04773c46d45cd97a1b6b6763b6033783b07fb0d3d56249921ed54708995052f872ab668c0d3; o_cookie=272510488; _qddamta_2852062940=3-0; ptui_loginuin=2665515812; uin=o2665515812; skey=@2KkQb3Nq1; pt2gguin=o2665515812; ptisp=ctc; ptcz=00b79e167ca0459a3e41a68f0762ef0e9738cabd2450a15a5c68d84046fa1b80; portalversion=new; _qddaz=QD.anpwkv.wzdi9v.j9yzmi81; pgv_info=ssid=s4259692687&pgvReferrer=&ssi=s7305288325; pgv_pvid=9528290847; dm_cookie=version=new&log_type=internal_click&ssid=s4259692687&pvid=9528290847&qq=2665515812&loadtime=2728&url=http%3A%2F%2Fe.qq.com%2Fads%2F&gdt_refer=e.qq.com&gdt_full_refer=http%3A%2F%2Fe.qq.com%2Fgaea%2Findex&gdt_original_refer=e.qq.com&gdt_original_full_refer=http%3A%2F%2Fe.qq.com%2Fgaea%2Findex&gdt_from=&uid=44059&hottag=gaea&hottagtype=header; site_type=new; hottag=gaea; hottagtype=header; _qddab=3-ly2g1y.jcvhvv55' -H 'DNT: 1' -H 'Accept-Encoding: gzip, deflate' -H 'Accept-Language: zh-CN,zh;q=0.8,en;q=0.6' -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36' -H 'Accept: application/json, text/javascript, */*; q=0.01' -H 'Referer: http://e.qq.com/atlas/5003654/ad/create' -H 'X-Requested-With: XMLHttpRequest' -H 'Connection: keep-alive' --compressed"
       },
-      "response": []
+      "response": [
+        {
+          "id": "2900fa78-c729-688c-1617-339a23378236",
+          "name": "¯s*Â",
+          "originalRequest": {
+            "method": "GET",
+            "header": [
+              {
+                "key": "Cookie",
+                "value": "pgv_pvi=751077376; tvfe_boss_uuid=061e072f97f43b1b; RK=tMuzKJKbTS; eas_sid=y1Z5S0z5N4S6O6t0n0M5A8u1Z4; ptcz=f75eea6a1d9d513153b05ddc75a6bfa69c7691be708bea98e4e55e3596c9c055; pgv_pvid=149585280; gdt_original_refer=e.qq.com; gdt_original_full_refer=http%3A%2F%2Fe.qq.com%2F; gr_user_id=ff0fcf8e-4406-4bb3-9998-8e5978a4bb27; __root_domain_v=.e.qq.com; _qddaz=QD.5f7v7l.9v52cm.jclql52s; _ga=GA1.2.579610138.1516355317; ptui_loginuin=2665515812; o_cookie=2665515812; pt2gguin=o2665515812; pac_uid=1_2665515812; gdt_refer=e.qq.com; gdt_full_refer=http%3A%2F%2Fe.qq.com%2F; tsa_pgv_ssid=tsassid__1517728914576_604437981; site_type=new; portalversion=new; pgv_si=s8914118656; pgv_info=ssid=s1237001529; hottagtype=header; ptisp=cnc; _qdda=3-1.4m2qz; _qddab=3-md55it.jd9iqvxa; _qddamta_2852062940=3-0; uin=o2665515812; skey=@fQZoxMFSm; dm_cookie=version=new&log_type=internal_click&ssid=tsassid__1517728914576_604437981&pvid=149585280&qq=2665515812&loadtime=1277&url=http%3A%2F%2Fe.qq.com%2Fads%2F&gdt_refer=e.qq.com&gdt_full_refer=http%3A%2F%2Fe.qq.com%2F&gdt_original_refer=e.qq.com&gdt_original_full_refer=http%3A%2F%2Fe.qq.com%2F&gdt_from=&uid=44059&hottag=gaea&hottagtype=header; hottag=gaea",
+                "disabled": false
+              },
+              {
+                "key": "DNT",
+                "value": "1",
+                "disabled": false
+              },
+              {
+                "key": "Accept-Encoding",
+                "value": "gzip, deflate",
+                "disabled": false
+              },
+              {
+                "key": "Accept-Language",
+                "value": "zh-CN,zh;q=0.8,en;q=0.6",
+                "disabled": false
+              },
+              {
+                "key": "User-Agent",
+                "value": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36",
+                "disabled": false
+              },
+              {
+                "key": "Accept",
+                "value": "application/json, text/javascript, */*; q=0.01",
+                "disabled": false
+              },
+              {
+                "key": "Referer",
+                "value": "http://e.qq.com/atlas/5003654/ad/create",
+                "disabled": false
+              },
+              {
+                "key": "X-Requested-With",
+                "value": "XMLHttpRequest",
+                "disabled": false
+              },
+              {
+                "key": "Connection",
+                "value": "keep-alive",
+                "disabled": false
+              }
+            ],
+            "body": {},
+            "url": {
+              "raw": "http://e.qq.com/phoenix/api.php?mod=resource&act=getparentimage&&g_tk=2118675792&advertiser_id=5003654&sub_image_id=5003654%3A2a39ac8719410929a89020004f879820&unicode=true",
+              "protocol": "http",
+              "host": [
+                "e",
+                "qq",
+                "com"
+              ],
+              "path": [
+                "phoenix",
+                "api.php"
+              ],
+              "query": [
+                {
+                  "key": "mod",
+                  "value": "resource",
+                  "equals": true
+                },
+                {
+                  "key": "act",
+                  "value": "getparentimage",
+                  "equals": true
+                },
+                {
+                  "key": "g_tk",
+                  "value": "2118675792",
+                  "equals": true
+                },
+                {
+                  "key": "advertiser_id",
+                  "value": "5003654",
+                  "equals": true
+                },
+                {
+                  "key": "sub_image_id",
+                  "value": "5003654%3A2a39ac8719410929a89020004f879820",
+                  "equals": true
+                },
+                {
+                  "key": "unicode",
+                  "value": "true",
+                  "equals": true
+                },
+                {
+                  "key": null,
+                  "value": null
+                }
+              ]
+            }
+          },
+          "status": "OK",
+          "code": 200,
+          "_postman_previewlanguage": "html",
+          "header": [
+            {
+              "key": "Access-Control-Allow-Origin",
+              "value": "https://developers.e.qq.com",
+              "name": "Access-Control-Allow-Origin",
+              "description": ""
+            },
+            {
+              "key": "Cache-Control",
+              "value": "no-cache, must-revalidate",
+              "name": "Cache-Control",
+              "description": ""
+            },
+            {
+              "key": "Connection",
+              "value": "keep-alive",
+              "name": "Connection",
+              "description": ""
+            },
+            {
+              "key": "Content-Encoding",
+              "value": "gzip",
+              "name": "Content-Encoding",
+              "description": ""
+            },
+            {
+              "key": "Content-Security-Policy-Report-Only",
+              "value": "default-src f.gdt.isd.com *.qq.com *.gtimg.cn *.gtimg.com *.idqqimg.com *.tenpay.com *.qpic.cn 'self' 'unsafe-inline' 'unsafe-eval' blob: data: filesystem: ; connect-src * blob: data: filesystem: ; form-action * blob: data: filesystem: ; child-src * blob: data: filesystem: ; frame-src * blob: data: filesystem: ;  img-src * blob: data: filesystem: ; font-src * blob: data: filesystem: ; report-uri http://e.qq.com/ec/api.php?mod=monitor&act=sendcspreport;",
+              "name": "Content-Security-Policy-Report-Only",
+              "description": ""
+            },
+            {
+              "key": "Content-Type",
+              "value": "text/html; charset=utf-8",
+              "name": "Content-Type",
+              "description": ""
+            },
+            {
+              "key": "Date",
+              "value": "Mon, 05 Feb 2018 01:55:11 GMT",
+              "name": "Date",
+              "description": ""
+            },
+            {
+              "key": "Expires",
+              "value": "-1",
+              "name": "Expires",
+              "description": ""
+            },
+            {
+              "key": "Server",
+              "value": "nginx",
+              "name": "Server",
+              "description": ""
+            },
+            {
+              "key": "Transfer-Encoding",
+              "value": "chunked",
+              "name": "Transfer-Encoding",
+              "description": ""
+            },
+            {
+              "key": "Vary",
+              "value": "Accept-Encoding",
+              "name": "Vary",
+              "description": ""
+            }
+          ],
+          "cookie": [],
+          "responseTime": "217",
+          "body": "{\"ret\":0,\"msg\":\"\",\"data\":{\"parent_image_id\":\"5003654:2a39ac8719410929a89020004f879820\",\"parent_image_uri\":\"http:\\/\\/e.qq.com\\/phoenix\\/api.php?mod=order&act=showimg&image_key=d0lETzVjRE9tUkRNd0FqTXdrRE9obGpNNUFUTTBrVE0zZ3pZaGx6TWhKVFByTjJQdzh5WndwbUxHbFZPMTVFYjVSa2QwTTBaYUprZEJGVWJERjBSS0YwUnRaRVZCRkVSdkF6TDBSMlp2NDJZdWNXYnBSM1p1UUhabkIzTHZvRGMwUkhh\",\"parent_image_width\":582,\"parent_image_height\":166,\"parent_image_generation\":4,\"parent_image_generation_id\":\"\",\"last_mod_time\":1501572656,\"start_pos_x\":0,\"start_pos_y\":0,\"end_pos_x\":0,\"end_pos_y\":0,\"sub_image_width\":582,\"sub_image_height\":166}}"
+        }
+      ]
     },
     {
       "_postman_id": "07ea7bb7-deed-6c65-c5fb-7926ff19cf66",
@@ -3849,6 +4203,98 @@ wZ¥5PF°	Pl¯\",\"uid\":5916759,\"status\":3,\"regdate\":\"2017-09-21 09:34\",\"co
           ]
         },
         "description": "Generated from a curl request: \ncurl 'http://e.qq.com/phoenix/api.php?mod=resource&act=show&resource_type=image&resource_id=5061976:febb9c66fb7a7803377f8871f222cb75&&g_tk=331385776&advertiser_id=5061976' -H 'DNT: 1' -H 'Accept-Encoding: gzip, deflate' -H 'Accept-Language: zh-CN,zh;q=0.8,en;q=0.6' -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36' -H 'Accept: image/webp,image/apng,image/*,*/*;q=0.8' -H 'Referer: http://e.qq.com/atlas/5061976/ad/create' -H 'Cookie: RK=iEN+AFvaGI; pac_uid=1_272510488; eas_sid=o8OLMkN31gUFLvILuPeWCXz7Y5; __root_domain_v=.e.qq.com; gr_user_id=f243960a-f1da-4484-b445-b99d1e473095; LW_uid=U1J5u1B141J8u5p2C8Z5a0E8r3; LW_sid=E1a5Y111A1m835m3h2U0e2g2R7; pgv_si=s8482683904; cuid=8534091008; _qpsvr_localtk=0.5284608901025567; tvfe_boss_uuid=0054a9f500a603af; gdt_refer=e.qq.com; gdt_full_refer=http%3A%2F%2Fe.qq.com%2Fgaea%2Findex; gdt_original_refer=e.qq.com; gdt_original_full_refer=http%3A%2F%2Fe.qq.com%2Fgaea%2Findex; atlas_platform=atlas; qqmusic_uin=0272510488; qqmusic_key=@jEF9mqwPj; qqmusic_fromtag=6; qqmusic_vkey=EE954FD1405AC1C9B39627B43CC4AE780F3B91E988E80654EA01CFCF6780E5E20DA2BD3951694A60D4DF955AA0AB7F93B108D74D60B161E3; qqmusic_guid=80000155; rv2=8024CE21EE3CAC13CE9682936A01DB9583E83CBDE81F20C320; property20=A552E6A07B9C53394C1648BCE0139F6CC2BB420FA863F60054C692B4730BAAF98D85DC740480B4DF; pgv_pvi=6056730624; _ga=GA1.2.2085556529.1516793581; verifysession=h0151abc04773c46d45cd97a1b6b6763b6033783b07fb0d3d56249921ed54708995052f872ab668c0d3; o_cookie=272510488; _tucao_userinfo=VE0ycTVmOFZld1FEa09vTDRnUTlOcnFTcUFuWWdRYVkxQ24vWkUvbFdKZ3A5NC9nOFhONjhub2lvTjRHRDg5ZS9BaVJOTmJrUDhoSDZodCtNbzVBK0xwS0tOMGYwNHBEY3owaThwUCtCVmJ1WjgrYU45ckEyTjlPcFJlVlhrYnJwcThsTDd4bS93ZEVQbEl2SXMraEwyRDgxc0FvL1lzaWFHM3dNNUIrSmNyMnBPWEZZMUNjdFV1SW9nTXlkb2w5WE1xbER4Q1hESHdkN1c3Y2cvMFhiQkQybzFzNStrMEZ1bXVUQmlnZjFMdkNUYm9yZDZUVVJ0K3dSTGJIQ1RudUNYalFRYXJ0UmN2eHdyY0hsTHBiT0E9PQ%3D%3D--HGSg0ZFqpAbu%2F5uZXjMBPw%3D%3D; _tucao_session=aFVNbzFFUmZXMi81Q1F5THNPaE1vT2NmNE9HQ2tYL0NUV3lWVnJBb1g3dStxbFQ4ZGNTTUpoUDFtQkQrTHRWekprMEtGL0xCdjhHenJtTnhKZ3Q5WGhtNE1XOG15NnNlYzdDUWUzMjZiZFRLYzJiTVhHSGtCUEthRlN3VDhhYTZvMzJRbTlsekV1MFhYR2Y4M1hXeGwrSnMvZkdaMVVmekJma3hzdVozNlU5cEtVaXlGTWgzZ0Q0UGZ3S2g0Mi9kNUtpZk9id0czdzdnY2JsOW9obFgxRllWQUc1OHhYRmNOcTJEcGxvcmhVNXBHUmwxNXZCaVQ3T2xVRk9JdXpiaE9pNHl4a0VhUUdsZFM1TTNNbXFZVkRmQ1dpS3J2emQ4a2E5S1hqWWhITjBCZ1ZqMFRMWHYvY3drN2FVVXlrdWJnVFRyMitkRjY4aHNiWkVLTEJWN3NnPT0%3D--aPqo8uFDl58v3OWEWDuOSQ%3D%3D; _qddamta_2852062940=3-0; gr_session_id_8751e4ce852fb210=24b42f4e-5050-4d0f-8eb9-36fb5a4ae440; ptui_loginuin=2665515812; uin=o2665515812; skey=@3lglW0lRt; pt2gguin=o2665515812; ptisp=cnc; ptcz=00b79e167ca0459a3e41a68f0762ef0e9738cabd2450a15a5c68d84046fa1b80; portalversion=new; _qddaz=QD.anpwkv.wzdi9v.j9yzmi81; _qdda=3-1.7s7e6; _qddab=3-ctiqjg.jd4ao3jj; pgv_info=ssid=s4259692687&pgvReferrer=&ssi=s7305288325; pgv_pvid=9528290847; dm_cookie=version=new&log_type=internal_click&ssid=s4259692687&pvid=9528290847&qq=2665515812&loadtime=12671&url=http%3A%2F%2Fe.qq.com%2Fads%2F&gdt_refer=e.qq.com&gdt_full_refer=http%3A%2F%2Fe.qq.com%2Fgaea%2Findex&gdt_original_refer=e.qq.com&gdt_original_full_refer=http%3A%2F%2Fe.qq.com%2Fgaea%2Findex&gdt_from=&uid=44059; site_type=new; hottag=login; hottagtype=header' -H 'Proxy-Connection: keep-alive' --compressed"
+      },
+      "response": []
+    },
+    {
+      "_postman_id": "daac2afd-d4c5-adc6-e417-1af781fa5cdc",
+      "name": "∑÷¡L∆",
+      "request": {
+        "method": "GET",
+        "header": [
+          {
+            "key": "Cookie",
+            "value": "RK=iEN+AFvaGI; pac_uid=1_272510488; eas_sid=o8OLMkN31gUFLvILuPeWCXz7Y5; __root_domain_v=.e.qq.com; gr_user_id=f243960a-f1da-4484-b445-b99d1e473095; LW_uid=U1J5u1B141J8u5p2C8Z5a0E8r3; LW_sid=E1a5Y111A1m835m3h2U0e2g2R7; pgv_si=s8482683904; cuid=8534091008; _qpsvr_localtk=0.5284608901025567; tvfe_boss_uuid=0054a9f500a603af; gdt_refer=e.qq.com; gdt_full_refer=http%3A%2F%2Fe.qq.com%2Fgaea%2Findex; gdt_original_refer=e.qq.com; gdt_original_full_refer=http%3A%2F%2Fe.qq.com%2Fgaea%2Findex; atlas_platform=atlas; qqmusic_uin=0272510488; qqmusic_key=@jEF9mqwPj; qqmusic_fromtag=6; qqmusic_vkey=EE954FD1405AC1C9B39627B43CC4AE780F3B91E988E80654EA01CFCF6780E5E20DA2BD3951694A60D4DF955AA0AB7F93B108D74D60B161E3; qqmusic_guid=80000155; rv2=8024CE21EE3CAC13CE9682936A01DB9583E83CBDE81F20C320; property20=A552E6A07B9C53394C1648BCE0139F6CC2BB420FA863F60054C692B4730BAAF98D85DC740480B4DF; pgv_pvi=6056730624; _ga=GA1.2.2085556529.1516793581; verifysession=h0151abc04773c46d45cd97a1b6b6763b6033783b07fb0d3d56249921ed54708995052f872ab668c0d3; o_cookie=272510488; _qddamta_2852062940=3-0; ptui_loginuin=2665515812; uin=o2665515812; skey=@rRbk7MNdD; pt2gguin=o2665515812; ptisp=ctc; ptcz=00b79e167ca0459a3e41a68f0762ef0e9738cabd2450a15a5c68d84046fa1b80; portalversion=new; _qddaz=QD.anpwkv.wzdi9v.j9yzmi81; _qdda=3-1.7uzxq; _qddab=3-ix8473.jd0yniwo; pgv_info=ssid=s4259692687&pgvReferrer=&ssi=s7305288325; pgv_pvid=9528290847; dm_cookie=version=new&log_type=internal_click&ssid=s4259692687&pvid=9528290847&qq=2665515812&loadtime=2176&url=http%3A%2F%2Fe.qq.com%2Fads%2Faccount%2Faptitude%2F12%2F&gdt_refer=e.qq.com&gdt_full_refer=http%3A%2F%2Fe.qq.com%2Fgaea%2Findex&gdt_original_refer=e.qq.com&gdt_original_full_refer=http%3A%2F%2Fe.qq.com%2Fgaea%2Findex&gdt_from=&uid=44059; site_type=new; hottag=login; hottagtype=header"
+          },
+          {
+            "key": "DNT",
+            "value": "1"
+          },
+          {
+            "key": "Accept-Encoding",
+            "value": "gzip, deflate"
+          },
+          {
+            "key": "Accept-Language",
+            "value": "zh-CN,zh;q=0.8,en;q=0.6"
+          },
+          {
+            "key": "User-Agent",
+            "value": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36"
+          },
+          {
+            "key": "Accept",
+            "value": "application/json, text/javascript, */*; q=0.01"
+          },
+          {
+            "key": "Referer",
+            "value": "http://e.qq.com/atlas/5003654/ad/create"
+          },
+          {
+            "key": "X-Requested-With",
+            "value": "XMLHttpRequest"
+          },
+          {
+            "key": "Connection",
+            "value": "keep-alive"
+          }
+        ],
+        "body": {},
+        "url": {
+          "raw": "http://e.qq.com/phoenix/api.php?mod=resource&act=getcorporatelist&&g_tk=977583376&advertiser_id=5003654&unicode=true",
+          "protocol": "http",
+          "host": [
+            "e",
+            "qq",
+            "com"
+          ],
+          "path": [
+            "phoenix",
+            "api.php"
+          ],
+          "query": [
+            {
+              "key": "mod",
+              "value": "resource",
+              "equals": true
+            },
+            {
+              "key": "act",
+              "value": "getcorporatelist",
+              "equals": true
+            },
+            {
+              "key": "g_tk",
+              "value": "977583376",
+              "equals": true
+            },
+            {
+              "key": "advertiser_id",
+              "value": "5003654",
+              "equals": true
+            },
+            {
+              "key": "unicode",
+              "value": "true",
+              "equals": true
+            },
+            {
+              "key": null,
+              "value": null
+            }
+          ]
+        },
+        "description": "Generated from a curl request: \ncurl 'http://e.qq.com/phoenix/api.php?mod=resource&act=getcorporatelist&&g_tk=977583376&advertiser_id=5003654&unicode=true' -H 'Cookie: RK=iEN+AFvaGI; pac_uid=1_272510488; eas_sid=o8OLMkN31gUFLvILuPeWCXz7Y5; __root_domain_v=.e.qq.com; gr_user_id=f243960a-f1da-4484-b445-b99d1e473095; LW_uid=U1J5u1B141J8u5p2C8Z5a0E8r3; LW_sid=E1a5Y111A1m835m3h2U0e2g2R7; pgv_si=s8482683904; cuid=8534091008; _qpsvr_localtk=0.5284608901025567; tvfe_boss_uuid=0054a9f500a603af; gdt_refer=e.qq.com; gdt_full_refer=http%3A%2F%2Fe.qq.com%2Fgaea%2Findex; gdt_original_refer=e.qq.com; gdt_original_full_refer=http%3A%2F%2Fe.qq.com%2Fgaea%2Findex; atlas_platform=atlas; qqmusic_uin=0272510488; qqmusic_key=@jEF9mqwPj; qqmusic_fromtag=6; qqmusic_vkey=EE954FD1405AC1C9B39627B43CC4AE780F3B91E988E80654EA01CFCF6780E5E20DA2BD3951694A60D4DF955AA0AB7F93B108D74D60B161E3; qqmusic_guid=80000155; rv2=8024CE21EE3CAC13CE9682936A01DB9583E83CBDE81F20C320; property20=A552E6A07B9C53394C1648BCE0139F6CC2BB420FA863F60054C692B4730BAAF98D85DC740480B4DF; pgv_pvi=6056730624; _ga=GA1.2.2085556529.1516793581; verifysession=h0151abc04773c46d45cd97a1b6b6763b6033783b07fb0d3d56249921ed54708995052f872ab668c0d3; o_cookie=272510488; _qddamta_2852062940=3-0; ptui_loginuin=2665515812; uin=o2665515812; skey=@rRbk7MNdD; pt2gguin=o2665515812; ptisp=ctc; ptcz=00b79e167ca0459a3e41a68f0762ef0e9738cabd2450a15a5c68d84046fa1b80; portalversion=new; _qddaz=QD.anpwkv.wzdi9v.j9yzmi81; _qdda=3-1.7uzxq; _qddab=3-ix8473.jd0yniwo; pgv_info=ssid=s4259692687&pgvReferrer=&ssi=s7305288325; pgv_pvid=9528290847; dm_cookie=version=new&log_type=internal_click&ssid=s4259692687&pvid=9528290847&qq=2665515812&loadtime=2176&url=http%3A%2F%2Fe.qq.com%2Fads%2Faccount%2Faptitude%2F12%2F&gdt_refer=e.qq.com&gdt_full_refer=http%3A%2F%2Fe.qq.com%2Fgaea%2Findex&gdt_original_refer=e.qq.com&gdt_original_full_refer=http%3A%2F%2Fe.qq.com%2Fgaea%2Findex&gdt_from=&uid=44059; site_type=new; hottag=login; hottagtype=header' -H 'DNT: 1' -H 'Accept-Encoding: gzip, deflate' -H 'Accept-Language: zh-CN,zh;q=0.8,en;q=0.6' -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36' -H 'Accept: application/json, text/javascript, */*; q=0.01' -H 'Referer: http://e.qq.com/atlas/5003654/ad/create' -H 'X-Requested-With: XMLHttpRequest' -H 'Connection: keep-alive' --compressed"
       },
       "response": []
     }
