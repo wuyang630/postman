@@ -4933,7 +4933,7 @@
         ],
         "body": {
           "mode": "raw",
-          "raw": "campaignid=10365828&status=1"
+          "raw": "campaignid=10365828&status=10"
         },
         "url": {
           "raw": "http://e.qq.com/ec/api.php?mod=campaign&act=setstatus&owner=5003654&advertiser_id=5003654&post_format=json&unicode=true&g_tk=603076674",
