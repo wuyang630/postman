@@ -2200,34 +2200,34 @@
           ],
           "query": [
             {
-              "equals": true,
               "key": "mod",
-              "value": "resource"
+              "value": "resource",
+              "equals": true
             },
             {
-              "equals": true,
               "key": "act",
-              "value": "getparentimage"
+              "value": "getparentimage",
+              "equals": true
             },
             {
-              "equals": true,
               "key": "g_tk",
-              "value": "545098371"
+              "value": "545098371",
+              "equals": true
             },
             {
-              "equals": true,
               "key": "advertiser_id",
-              "value": "5003654"
+              "value": "5003654",
+              "equals": true
             },
             {
-              "equals": true,
               "key": "sub_image_id",
-              "value": "5003654%3A2a39ac8719410929a89020004f879820"
+              "value": "5003654%3A2a39ac8719410929a89020004f879820",
+              "equals": true
             },
             {
-              "equals": true,
               "key": "unicode",
-              "value": "true"
+              "value": "true",
+              "equals": true
             },
             {
               "key": null,
