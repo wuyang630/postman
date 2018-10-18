@@ -1050,39 +1050,39 @@
           ],
           "query": [
             {
+              "equals": true,
               "key": "mod",
-              "value": "targeting",
-              "equals": true
+              "value": "targeting"
             },
             {
+              "equals": true,
               "key": "act",
-              "value": "getconfig",
-              "equals": true
+              "value": "getconfig"
             },
             {
+              "equals": true,
               "key": "g_tk",
-              "value": "545098371",
-              "equals": true
+              "value": "545098371"
             },
             {
+              "equals": true,
               "key": "advertiser_id",
-              "value": "5003654",
-              "equals": true
+              "value": "5003654"
             },
             {
+              "equals": true,
               "key": "product_type",
-              "value": "30",
-              "equals": true
+              "value": "30"
             },
             {
+              "equals": true,
               "key": "campaign_type",
-              "value": "2",
-              "equals": true
+              "value": "2"
             },
             {
+              "equals": true,
               "key": "unicode",
-              "value": "true",
-              "equals": true
+              "value": "true"
             },
             {
               "key": null,
@@ -1338,29 +1338,29 @@
           ],
           "query": [
             {
+              "equals": true,
               "key": "mod",
-              "value": "demography",
-              "equals": true
+              "value": "demography"
             },
             {
+              "equals": true,
               "key": "act",
-              "value": "getestimate",
-              "equals": true
+              "value": "getestimate"
             },
             {
+              "equals": true,
               "key": "g_tk",
-              "value": "545098371",
-              "equals": true
+              "value": "545098371"
             },
             {
+              "equals": true,
               "key": "advertiser_id",
-              "value": "5003654",
-              "equals": true
+              "value": "5003654"
             },
             {
+              "equals": true,
               "key": "post_format",
-              "value": "json",
-              "equals": true
+              "value": "json"
             },
             {
               "key": null,
@@ -1606,34 +1606,34 @@
           ],
           "query": [
             {
+              "equals": true,
               "key": "mod",
-              "value": "landingpage",
-              "equals": true
+              "value": "landingpage"
             },
             {
+              "equals": true,
               "key": "act",
-              "value": "getsinglepagelist",
-              "equals": true
+              "value": "getsinglepagelist"
             },
             {
+              "equals": true,
               "key": "g_tk",
-              "value": "545098371",
-              "equals": true
+              "value": "545098371"
             },
             {
+              "equals": true,
               "key": "advertiser_id",
-              "value": "5003654",
-              "equals": true
+              "value": "5003654"
             },
             {
+              "equals": true,
               "key": "product_id",
-              "value": "4660",
-              "equals": true
+              "value": "4660"
             },
             {
+              "equals": true,
               "key": "unicode",
-              "value": "true",
-              "equals": true
+              "value": "true"
             },
             {
               "key": null,
@@ -1873,64 +1873,64 @@
           ],
           "query": [
             {
+              "equals": true,
               "key": "mod",
-              "value": "venus",
-              "equals": true
+              "value": "venus"
             },
             {
+              "equals": true,
               "key": "act",
-              "value": "getlist",
-              "equals": true
+              "value": "getlist"
             },
             {
+              "equals": true,
               "key": "g_tk",
-              "value": "545098371",
-              "equals": true
+              "value": "545098371"
             },
             {
+              "equals": true,
               "key": "advertiser_id",
-              "value": "5003654",
-              "equals": true
+              "value": "5003654"
             },
             {
+              "equals": true,
               "key": "type",
-              "value": "1",
-              "equals": true
+              "value": "1"
             },
             {
+              "equals": true,
               "key": "width",
-              "value": "582",
-              "equals": true
+              "value": "582"
             },
             {
+              "equals": true,
               "key": "height",
-              "value": "166",
-              "equals": true
+              "value": "166"
             },
             {
+              "equals": true,
               "key": "gif_included",
-              "value": "0",
-              "equals": true
+              "value": "0"
             },
             {
+              "equals": true,
               "key": "page",
-              "value": "1",
-              "equals": true
+              "value": "1"
             },
             {
+              "equals": true,
               "key": "page_size",
-              "value": "10",
-              "equals": true
+              "value": "10"
             },
             {
+              "equals": true,
               "key": "file_size_limit",
-              "value": "51200",
-              "equals": true
+              "value": "51200"
             },
             {
+              "equals": true,
               "key": "unicode",
-              "value": "true",
-              "equals": true
+              "value": "true"
             },
             {
               "key": null,
@@ -2200,34 +2200,34 @@
           ],
           "query": [
             {
+              "equals": true,
               "key": "mod",
-              "value": "resource",
-              "equals": true
+              "value": "resource"
             },
             {
+              "equals": true,
               "key": "act",
-              "value": "getparentimage",
-              "equals": true
+              "value": "getparentimage"
             },
             {
+              "equals": true,
               "key": "g_tk",
-              "value": "545098371",
-              "equals": true
+              "value": "545098371"
             },
             {
+              "equals": true,
               "key": "advertiser_id",
-              "value": "5003654",
-              "equals": true
+              "value": "5003654"
             },
             {
+              "equals": true,
               "key": "sub_image_id",
-              "value": "5003654%3A2a39ac8719410929a89020004f879820",
-              "equals": true
+              "value": "5003654%3A2a39ac8719410929a89020004f879820"
             },
             {
+              "equals": true,
               "key": "unicode",
-              "value": "true",
-              "equals": true
+              "value": "true"
             },
             {
               "key": null,
@@ -2487,29 +2487,29 @@
           ],
           "query": [
             {
+              "equals": true,
               "key": "mod",
-              "value": "order",
-              "equals": true
+              "value": "order"
             },
             {
+              "equals": true,
               "key": "act",
-              "value": "create",
-              "equals": true
+              "value": "create"
             },
             {
+              "equals": true,
               "key": "g_tk",
-              "value": "545098371",
-              "equals": true
+              "value": "545098371"
             },
             {
+              "equals": true,
               "key": "advertiser_id",
-              "value": "5003654",
-              "equals": true
+              "value": "5003654"
             },
             {
+              "equals": true,
               "key": "post_format",
-              "value": "json",
-              "equals": true
+              "value": "json"
             },
             {
               "key": null,
@@ -2579,34 +2579,34 @@
           ],
           "query": [
             {
+              "equals": true,
               "key": "mod",
-              "value": "targeting",
-              "equals": true
+              "value": "targeting"
             },
             {
+              "equals": true,
               "key": "act",
-              "value": "gettargetingpackagelist",
-              "equals": true
+              "value": "gettargetingpackagelist"
             },
             {
+              "equals": true,
               "key": "g_tk",
-              "value": "545098371",
-              "equals": true
+              "value": "545098371"
             },
             {
+              "equals": true,
               "key": "advertiser_id",
-              "value": "5061976",
-              "equals": true
+              "value": "5061976"
             },
             {
+              "equals": true,
               "key": "product_type",
-              "value": "30",
-              "equals": true
+              "value": "30"
             },
             {
+              "equals": true,
               "key": "unicode",
-              "value": "true",
-              "equals": true
+              "value": "true"
             },
             {
               "key": null,
@@ -2855,39 +2855,39 @@
           ],
           "query": [
             {
+              "equals": true,
               "key": "mod",
-              "value": "targeting",
-              "equals": true
+              "value": "targeting"
             },
             {
+              "equals": true,
               "key": "act",
-              "value": "readtargetingpackage",
-              "equals": true
+              "value": "readtargetingpackage"
             },
             {
+              "equals": true,
               "key": "g_tk",
-              "value": "545098371",
-              "equals": true
+              "value": "545098371"
             },
             {
+              "equals": true,
               "key": "advertiser_id",
-              "value": "5061976",
-              "equals": true
+              "value": "5061976"
             },
             {
+              "equals": true,
               "key": "adtarget_id",
-              "value": "27772727",
-              "equals": true
+              "value": "27772727"
             },
             {
+              "equals": true,
               "key": "product_type",
-              "value": "30",
-              "equals": true
+              "value": "30"
             },
             {
+              "equals": true,
               "key": "unicode",
-              "value": "true",
-              "equals": true
+              "value": "true"
             },
             {
               "key": null,
@@ -3152,29 +3152,29 @@
           ],
           "query": [
             {
+              "equals": true,
               "key": "mod",
-              "value": "targeting",
-              "equals": true
+              "value": "targeting"
             },
             {
+              "equals": true,
               "key": "act",
-              "value": "translate",
-              "equals": true
+              "value": "translate"
             },
             {
+              "equals": true,
               "key": "g_tk",
-              "value": "545098371",
-              "equals": true
+              "value": "545098371"
             },
             {
+              "equals": true,
               "key": "advertiser_id",
-              "value": "5061976",
-              "equals": true
+              "value": "5061976"
             },
             {
+              "equals": true,
               "key": "post_format",
-              "value": "json",
-              "equals": true
+              "value": "json"
             },
             {
               "key": null,
