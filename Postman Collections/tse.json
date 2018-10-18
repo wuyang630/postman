@@ -4732,29 +4732,29 @@
           ],
           "query": [
             {
-              "equals": true,
               "key": "mod",
-              "value": "landingpage"
+              "value": "landingpage",
+              "equals": true
             },
             {
-              "equals": true,
               "key": "act",
-              "value": "getmultipagelist"
+              "value": "getmultipagelist",
+              "equals": true
             },
             {
-              "equals": true,
               "key": "g_tk",
-              "value": "902805512"
+              "value": "902805512",
+              "equals": true
             },
             {
-              "equals": true,
               "key": "advertiser_id",
-              "value": "7255337"
+              "value": "7255337",
+              "equals": true
             },
             {
-              "equals": true,
               "key": "unicode",
-              "value": "true"
+              "value": "true",
+              "equals": true
             },
             {
               "key": null,
@@ -5258,39 +5258,39 @@
           ],
           "query": [
             {
-              "equals": true,
               "key": "mod",
-              "value": "targeting"
+              "value": "targeting",
+              "equals": true
             },
             {
-              "equals": true,
               "key": "act",
-              "value": "readtargetingpackage"
+              "value": "readtargetingpackage",
+              "equals": true
             },
             {
-              "equals": true,
               "key": "g_tk",
-              "value": "639729010"
+              "value": "639729010",
+              "equals": true
             },
             {
-              "equals": true,
               "key": "advertiser_id",
-              "value": "5003654"
+              "value": "5003654",
+              "equals": true
             },
             {
-              "equals": true,
               "key": "adtarget_id",
-              "value": "29587560"
+              "value": "29587560",
+              "equals": true
             },
             {
-              "equals": true,
               "key": "product_type",
-              "value": "30"
+              "value": "30",
+              "equals": true
             },
             {
-              "equals": true,
               "key": "unicode",
-              "value": "true"
+              "value": "true",
+              "equals": true
             },
             {
               "key": null,
@@ -5596,42 +5596,42 @@
           ],
           "query": [
             {
-              "equals": true,
               "key": "mod",
-              "value": "campaign"
+              "value": "campaign",
+              "equals": true
             },
             {
-              "equals": true,
               "key": "act",
-              "value": "del"
+              "value": "del",
+              "equals": true
             },
             {
-              "equals": true,
-              "key": "g_tk",
-              "value": "639729010"
-            },
-            {
-              "equals": true,
-              "key": "d_p",
-              "value": "0.7854898360938152",
-              "disabled": true
-            },
-            {
-              "equals": true,
-              "key": "callback",
-              "value": "frameElement.callback",
-              "disabled": true
-            },
-            {
-              "equals": false,
-              "key": "script",
-              "value": "",
-              "disabled": true
-            },
-            {
-              "equals": true,
               "key": "g_tk",
               "value": "639729010",
+              "equals": true
+            },
+            {
+              "key": "d_p",
+              "value": "0.7854898360938152",
+              "equals": true,
+              "disabled": true
+            },
+            {
+              "key": "callback",
+              "value": "frameElement.callback",
+              "equals": true,
+              "disabled": true
+            },
+            {
+              "key": "script",
+              "value": "",
+              "equals": false,
+              "disabled": true
+            },
+            {
+              "key": "g_tk",
+              "value": "639729010",
+              "equals": true,
               "disabled": true
             }
           ]
