@@ -5258,39 +5258,39 @@
           ],
           "query": [
             {
+              "equals": true,
               "key": "mod",
-              "value": "targeting",
-              "equals": true
+              "value": "targeting"
             },
             {
+              "equals": true,
               "key": "act",
-              "value": "readtargetingpackage",
-              "equals": true
+              "value": "readtargetingpackage"
             },
             {
+              "equals": true,
               "key": "g_tk",
-              "value": "639729010",
-              "equals": true
+              "value": "639729010"
             },
             {
+              "equals": true,
               "key": "advertiser_id",
-              "value": "5003654",
-              "equals": true
+              "value": "5003654"
             },
             {
+              "equals": true,
               "key": "adtarget_id",
-              "value": "29587560",
-              "equals": true
+              "value": "29587560"
             },
             {
+              "equals": true,
               "key": "product_type",
-              "value": "30",
-              "equals": true
+              "value": "30"
             },
             {
+              "equals": true,
               "key": "unicode",
-              "value": "true",
-              "equals": true
+              "value": "true"
             },
             {
               "key": null,
