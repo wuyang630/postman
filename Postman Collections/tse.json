@@ -3748,59 +3748,59 @@
           ],
           "query": [
             {
+              "equals": true,
               "key": "mod",
-              "value": "order",
-              "equals": true
+              "value": "order"
             },
             {
+              "equals": true,
               "key": "act",
-              "value": "costtypelist",
-              "equals": true
+              "value": "costtypelist"
             },
             {
+              "equals": true,
               "key": "g_tk",
-              "value": "1271086855",
-              "equals": true
+              "value": "1271086855"
             },
             {
+              "equals": true,
               "key": "advertiser_id",
-              "value": "5061976",
-              "equals": true
+              "value": "5061976"
             },
             {
+              "equals": true,
               "key": "product_type",
-              "value": "30",
-              "equals": true
+              "value": "30"
             },
             {
+              "equals": true,
               "key": "product_id",
-              "value": "",
-              "equals": true
+              "value": ""
             },
             {
+              "equals": true,
               "key": "crt_size",
-              "value": "150_15",
-              "equals": true
+              "value": "150_15"
             },
             {
+              "equals": true,
               "key": "adgroup_id",
-              "value": "",
-              "equals": true
+              "value": ""
             },
             {
+              "equals": true,
               "key": "campaign_type",
-              "value": "2",
-              "equals": true
+              "value": "2"
             },
             {
+              "equals": true,
               "key": "campaign_id",
-              "value": "9402358",
-              "equals": true
+              "value": "9402358"
             },
             {
+              "equals": true,
               "key": "unicode",
-              "value": "true",
-              "equals": true
+              "value": "true"
             },
             {
               "key": null,
