@@ -1338,29 +1338,29 @@
           ],
           "query": [
             {
+              "equals": true,
               "key": "mod",
-              "value": "demography",
-              "equals": true
+              "value": "demography"
             },
             {
+              "equals": true,
               "key": "act",
-              "value": "getestimate",
-              "equals": true
+              "value": "getestimate"
             },
             {
+              "equals": true,
               "key": "g_tk",
-              "value": "545098371",
-              "equals": true
+              "value": "545098371"
             },
             {
+              "equals": true,
               "key": "advertiser_id",
-              "value": "5003654",
-              "equals": true
+              "value": "5003654"
             },
             {
+              "equals": true,
               "key": "post_format",
-              "value": "json",
-              "equals": true
+              "value": "json"
             },
             {
               "key": null,
