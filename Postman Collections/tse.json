@@ -4732,29 +4732,29 @@
           ],
           "query": [
             {
+              "equals": true,
               "key": "mod",
-              "value": "landingpage",
-              "equals": true
+              "value": "landingpage"
             },
             {
+              "equals": true,
               "key": "act",
-              "value": "getmultipagelist",
-              "equals": true
+              "value": "getmultipagelist"
             },
             {
+              "equals": true,
               "key": "g_tk",
-              "value": "902805512",
-              "equals": true
+              "value": "902805512"
             },
             {
+              "equals": true,
               "key": "advertiser_id",
-              "value": "7255337",
-              "equals": true
+              "value": "7255337"
             },
             {
+              "equals": true,
               "key": "unicode",
-              "value": "true",
-              "equals": true
+              "value": "true"
             },
             {
               "key": null,
