@@ -63,34 +63,34 @@
           ],
           "query": [
             {
+              "equals": true,
               "key": "mod",
-              "value": "customer",
-              "equals": true
+              "value": "customer"
             },
             {
+              "equals": true,
               "key": "act",
-              "value": "getlist",
-              "equals": true
+              "value": "getlist"
             },
             {
+              "equals": true,
               "key": "page",
-              "value": "1",
-              "equals": true
+              "value": "1"
             },
             {
+              "equals": true,
               "key": "status",
-              "value": "0",
-              "equals": true
+              "value": "0"
             },
             {
+              "equals": true,
               "key": "pagesize",
-              "value": "10",
-              "equals": true
+              "value": "10"
             },
             {
+              "equals": true,
               "key": "g_tk",
-              "value": "545098371",
-              "equals": true
+              "value": "545098371"
             }
           ]
         },
@@ -5638,7 +5638,237 @@
         },
         "description": "Generated from a curl request: \ncurl 'http://e.qq.com/ec/api.php?mod=campaign&act=del&g_tk=639729010&d_p=0.7854898360938152&callback=frameElement.callback&script&g_tk=639729010' -H 'Pragma: no-cache' -H 'Origin: http://e.qq.com' -H 'Accept-Encoding: gzip, deflate' -H 'Accept-Language: zh-CN,zh;q=0.9,en;q=0.8' -H 'Upgrade-Insecure-Requests: 1' -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36' -H 'Content-Type: application/x-www-form-urlencoded' -H 'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8' -H 'Cache-Control: no-cache' -H 'Referer: http://e.qq.com/atlas/5003654/report/order?cid=11185033&sdate=2018-03-23&edate=2018-03-23' -H 'Cookie: RK=iEN+AFvaGI; eas_sid=o8OLMkN31gUFLvILuPeWCXz7Y5; gr_user_id=f243960a-f1da-4484-b445-b99d1e473095; LW_uid=U1J5u1B141J8u5p2C8Z5a0E8r3; LW_sid=E1a5Y111A1m835m3h2U0e2g2R7; pgv_si=s8482683904; cuid=8534091008; _qpsvr_localtk=0.5284608901025567; tvfe_boss_uuid=0054a9f500a603af; qqmusic_uin=0272510488; qqmusic_key=@jEF9mqwPj; qqmusic_fromtag=6; qqmusic_vkey=EE954FD1405AC1C9B39627B43CC4AE780F3B91E988E80654EA01CFCF6780E5E20DA2BD3951694A60D4DF955AA0AB7F93B108D74D60B161E3; qqmusic_guid=80000155; rv2=8024CE21EE3CAC13CE9682936A01DB9583E83CBDE81F20C320; property20=A552E6A07B9C53394C1648BCE0139F6CC2BB420FA863F60054C692B4730BAAF98D85DC740480B4DF; pgv_pvi=6056730624; _ga=GA1.2.2085556529.1516793581; _tucao_userinfo=VE0ycTVmOFZld1FEa09vTDRnUTlOcnFTcUFuWWdRYVkxQ24vWkUvbFdKZ3A5NC9nOFhONjhub2lvTjRHRDg5ZS9BaVJOTmJrUDhoSDZodCtNbzVBK0xwS0tOMGYwNHBEY3owaThwUCtCVmJ1WjgrYU45ckEyTjlPcFJlVlhrYnJwcThsTDd4bS93ZEVQbEl2SXMraEwyRDgxc0FvL1lzaWFHM3dNNUIrSmNyMnBPWEZZMUNjdFV1SW9nTXlkb2w5WE1xbER4Q1hESHdkN1c3Y2cvMFhiQkQybzFzNStrMEZ1bXVUQmlnZjFMdkNUYm9yZDZUVVJ0K3dSTGJIQ1RudUNYalFRYXJ0UmN2eHdyY0hsTHBiT0E9PQ%3D%3D--HGSg0ZFqpAbu%2F5uZXjMBPw%3D%3D; _tucao_session=aFVNbzFFUmZXMi81Q1F5THNPaE1vT2NmNE9HQ2tYL0NUV3lWVnJBb1g3dStxbFQ4ZGNTTUpoUDFtQkQrTHRWekprMEtGL0xCdjhHenJtTnhKZ3Q5WGhtNE1XOG15NnNlYzdDUWUzMjZiZFRLYzJiTVhHSGtCUEthRlN3VDhhYTZvMzJRbTlsekV1MFhYR2Y4M1hXeGwrSnMvZkdaMVVmekJma3hzdVozNlU5cEtVaXlGTWgzZ0Q0UGZ3S2g0Mi9kNUtpZk9id0czdzdnY2JsOW9obFgxRllWQUc1OHhYRmNOcTJEcGxvcmhVNXBHUmwxNXZCaVQ3T2xVRk9JdXpiaE9pNHl4a0VhUUdsZFM1TTNNbXFZVkRmQ1dpS3J2emQ4a2E5S1hqWWhITjBCZ1ZqMFRMWHYvY3drN2FVVXlrdWJnVFRyMitkRjY4aHNiWkVLTEJWN3NnPT0%3D--aPqo8uFDl58v3OWEWDuOSQ%3D%3D; ptcz=00b79e167ca0459a3e41a68f0762ef0e9738cabd2450a15a5c68d84046fa1b80; pgv_info=ssid=s4259692687&pgvReferrer=&ssi=s7305288325; pgv_pvid=9528290847; atlas_platform=atlas; atlas_aduid1826226=1826226; gdt_refer=e.qq.com; gdt_full_refer=http%3A%2F%2Fe.qq.com%2Fgaea%2Fcustomer%2Findex; gdt_original_refer=e.qq.com; gdt_original_full_refer=http%3A%2F%2Fe.qq.com%2Fgaea%2Fcustomer%2Findex; __root_domain_v=.e.qq.com; _qddaz=QD.s0de55.uuzxeb.jenxpyui; verifysession=h01b723709723158c5c0c686057bb70a8f642582e600cd65541841a3e3821e2a0b7b2e138a6e9076752; ptisp=ctc; site_type=new; portalversion=new; hottagtype=header; o_cookie=272510488; pac_uid=1_272510488; ptui_loginuin=2665515812; pt2gguin=o2665515812; _qddab=3-24cmpu.jf39pkhl; uin=o2665515812; skey=@GWdQUf9ZL; dm_cookie=version=new&log_type=internal_click&ssid=s4259692687&pvid=9528290847&qq=2665515812&loadtime=4214&url=http%3A%2F%2Fe.qq.com%2Fads%2F%3Frefer%3Dhttp%3A%2F%2Fe.qq.com%2Fgaea%2Fcustomer%2Findex&gdt_refer=e.qq.com&gdt_full_refer=http%3A%2F%2Fe.qq.com%2Fgaea%2Fcustomer%2Findex&gdt_original_refer=e.qq.com&gdt_original_full_refer=http%3A%2F%2Fe.qq.com%2Fgaea%2Fcustomer%2Findex&gdt_from=&uid=44059&hottag=gaea&hottagtype=header; hottag=gaea' -H 'Connection: keep-alive' -H 'DNT: 1' --data 'qzreferrer=http%3A%2F%2Fe.qq.com%2Fatlas%2F5003654%2Freport%2Forder%3Fcid%3D11185033%26sdate%3D2018-03-23%26edate%3D2018-03-23%23cpage%3D1%26cpagesize%3D20%26cstatus%3D999&campaignid=11185033&callback=frameElement.callback%26script&owner=5003654' --compressed"
       },
-      "response": []
+      "response": [
+        {
+          "id": "c5be2b3f-f9a7-4d80-81e2-7a9c115f8847",
+          "name": "\u5220\u9664\u8ba1\u5212",
+          "originalRequest": {
+            "method": "POST",
+            "header": [
+              {
+                "key": "Pragma",
+                "value": "no-cache",
+                "disabled": false
+              },
+              {
+                "key": "Origin",
+                "value": "http://e.qq.com",
+                "disabled": false
+              },
+              {
+                "key": "Accept-Encoding",
+                "value": "gzip, deflate",
+                "disabled": false
+              },
+              {
+                "key": "Accept-Language",
+                "value": "zh-CN,zh;q=0.9,en;q=0.8",
+                "disabled": false
+              },
+              {
+                "key": "Upgrade-Insecure-Requests",
+                "value": "1",
+                "disabled": false
+              },
+              {
+                "key": "User-Agent",
+                "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36",
+                "disabled": false
+              },
+              {
+                "key": "Content-Type",
+                "value": "application/x-www-form-urlencoded",
+                "disabled": false
+              },
+              {
+                "key": "Accept",
+                "value": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+                "disabled": false
+              },
+              {
+                "key": "Cache-Control",
+                "value": "no-cache",
+                "disabled": false
+              },
+              {
+                "key": "Referer",
+                "value": "http://e.qq.com/atlas/5003654/report/order?cid=11185033&sdate=2018-03-23&edate=2018-03-23",
+                "disabled": false
+              },
+              {
+                "key": "Cookie",
+                "value": "RK=iEN+AFvaGI; eas_sid=o8OLMkN31gUFLvILuPeWCXz7Y5; gr_user_id=f243960a-f1da-4484-b445-b99d1e473095; LW_uid=U1J5u1B141J8u5p2C8Z5a0E8r3; LW_sid=E1a5Y111A1m835m3h2U0e2g2R7; pgv_si=s8482683904; cuid=8534091008; _qpsvr_localtk=0.5284608901025567; tvfe_boss_uuid=0054a9f500a603af; qqmusic_uin=0272510488; qqmusic_key=@jEF9mqwPj; qqmusic_fromtag=6; qqmusic_vkey=EE954FD1405AC1C9B39627B43CC4AE780F3B91E988E80654EA01CFCF6780E5E20DA2BD3951694A60D4DF955AA0AB7F93B108D74D60B161E3; qqmusic_guid=80000155; rv2=8024CE21EE3CAC13CE9682936A01DB9583E83CBDE81F20C320; property20=A552E6A07B9C53394C1648BCE0139F6CC2BB420FA863F60054C692B4730BAAF98D85DC740480B4DF; pgv_pvi=6056730624; _ga=GA1.2.2085556529.1516793581; _tucao_userinfo=VE0ycTVmOFZld1FEa09vTDRnUTlOcnFTcUFuWWdRYVkxQ24vWkUvbFdKZ3A5NC9nOFhONjhub2lvTjRHRDg5ZS9BaVJOTmJrUDhoSDZodCtNbzVBK0xwS0tOMGYwNHBEY3owaThwUCtCVmJ1WjgrYU45ckEyTjlPcFJlVlhrYnJwcThsTDd4bS93ZEVQbEl2SXMraEwyRDgxc0FvL1lzaWFHM3dNNUIrSmNyMnBPWEZZMUNjdFV1SW9nTXlkb2w5WE1xbER4Q1hESHdkN1c3Y2cvMFhiQkQybzFzNStrMEZ1bXVUQmlnZjFMdkNUYm9yZDZUVVJ0K3dSTGJIQ1RudUNYalFRYXJ0UmN2eHdyY0hsTHBiT0E9PQ%3D%3D--HGSg0ZFqpAbu%2F5uZXjMBPw%3D%3D; _tucao_session=aFVNbzFFUmZXMi81Q1F5THNPaE1vT2NmNE9HQ2tYL0NUV3lWVnJBb1g3dStxbFQ4ZGNTTUpoUDFtQkQrTHRWekprMEtGL0xCdjhHenJtTnhKZ3Q5WGhtNE1XOG15NnNlYzdDUWUzMjZiZFRLYzJiTVhHSGtCUEthRlN3VDhhYTZvMzJRbTlsekV1MFhYR2Y4M1hXeGwrSnMvZkdaMVVmekJma3hzdVozNlU5cEtVaXlGTWgzZ0Q0UGZ3S2g0Mi9kNUtpZk9id0czdzdnY2JsOW9obFgxRllWQUc1OHhYRmNOcTJEcGxvcmhVNXBHUmwxNXZCaVQ3T2xVRk9JdXpiaE9pNHl4a0VhUUdsZFM1TTNNbXFZVkRmQ1dpS3J2emQ4a2E5S1hqWWhITjBCZ1ZqMFRMWHYvY3drN2FVVXlrdWJnVFRyMitkRjY4aHNiWkVLTEJWN3NnPT0%3D--aPqo8uFDl58v3OWEWDuOSQ%3D%3D; ptcz=00b79e167ca0459a3e41a68f0762ef0e9738cabd2450a15a5c68d84046fa1b80; pgv_info=ssid=s4259692687&pgvReferrer=&ssi=s7305288325; pgv_pvid=9528290847; atlas_platform=atlas; atlas_aduid1826226=1826226; gdt_refer=e.qq.com; gdt_full_refer=http%3A%2F%2Fe.qq.com%2Fgaea%2Fcustomer%2Findex; gdt_original_refer=e.qq.com; gdt_original_full_refer=http%3A%2F%2Fe.qq.com%2Fgaea%2Fcustomer%2Findex; __root_domain_v=.e.qq.com; _qddaz=QD.s0de55.uuzxeb.jenxpyui; verifysession=h01b723709723158c5c0c686057bb70a8f642582e600cd65541841a3e3821e2a0b7b2e138a6e9076752; ptisp=ctc; site_type=new; portalversion=new; hottagtype=header; o_cookie=272510488; pac_uid=1_272510488; ptui_loginuin=2665515812; pt2gguin=o2665515812; _qddab=3-24cmpu.jf39pkhl; uin=o2665515812; skey=@GWdQUf9ZL; dm_cookie=version=new&log_type=internal_click&ssid=s4259692687&pvid=9528290847&qq=2665515812&loadtime=4214&url=http%3A%2F%2Fe.qq.com%2Fads%2F%3Frefer%3Dhttp%3A%2F%2Fe.qq.com%2Fgaea%2Fcustomer%2Findex&gdt_refer=e.qq.com&gdt_full_refer=http%3A%2F%2Fe.qq.com%2Fgaea%2Fcustomer%2Findex&gdt_original_refer=e.qq.com&gdt_original_full_refer=http%3A%2F%2Fe.qq.com%2Fgaea%2Fcustomer%2Findex&gdt_from=&uid=44059&hottag=gaea&hottagtype=header; hottag=gaea",
+                "disabled": false
+              },
+              {
+                "key": "Connection",
+                "value": "keep-alive",
+                "disabled": false
+              },
+              {
+                "key": "DNT",
+                "value": "1",
+                "disabled": false
+              }
+            ],
+            "body": {
+              "mode": "urlencoded",
+              "urlencoded": [
+                {
+                  "key": "qzreferrer",
+                  "value": "http%3A%2F%2Fe.qq.com%2Fatlas%2F5003654%2Freport%2Forder%3Fcid%3D11185033%26sdate%3D2018-03-23%26edate%3D2018-03-23%23cpage%3D1%26cpagesize%3D20%26cstatus%3D999",
+                  "type": "text",
+                  "disabled": true
+                },
+                {
+                  "key": "campaignid",
+                  "value": "11185025",
+                  "type": "text"
+                },
+                {
+                  "key": "callback",
+                  "value": "frameElement.callback%26script",
+                  "type": "text",
+                  "disabled": true
+                },
+                {
+                  "key": "owner",
+                  "value": "5003654",
+                  "type": "text"
+                }
+              ]
+            },
+            "url": {
+              "raw": "http://e.qq.com/ec/api.php?mod=campaign&act=del&g_tk=639729010",
+              "protocol": "http",
+              "host": [
+                "e",
+                "qq",
+                "com"
+              ],
+              "path": [
+                "ec",
+                "api.php"
+              ],
+              "query": [
+                {
+                  "key": "mod",
+                  "value": "campaign",
+                  "equals": true
+                },
+                {
+                  "key": "act",
+                  "value": "del",
+                  "equals": true
+                },
+                {
+                  "key": "g_tk",
+                  "value": "639729010",
+                  "equals": true
+                },
+                {
+                  "key": "d_p",
+                  "value": "0.7854898360938152",
+                  "equals": true,
+                  "disabled": true
+                },
+                {
+                  "key": "callback",
+                  "value": "frameElement.callback",
+                  "equals": true,
+                  "disabled": true
+                },
+                {
+                  "key": "script",
+                  "value": "",
+                  "equals": false,
+                  "disabled": true
+                },
+                {
+                  "key": "g_tk",
+                  "value": "639729010",
+                  "equals": true,
+                  "disabled": true
+                }
+              ]
+            }
+          },
+          "status": "OK",
+          "code": 200,
+          "_postman_previewlanguage": "html",
+          "header": [
+            {
+              "key": "Access-Control-Allow-Origin",
+              "value": "https://developers.e.qq.com",
+              "name": "Access-Control-Allow-Origin",
+              "description": "Specifies a URI that may access the resource. For requests without credentials, the server may specify '*' as a wildcard, thereby allowing any origin to access the resource."
+            },
+            {
+              "key": "Cache-Control",
+              "value": "no-cache, must-revalidate",
+              "name": "Cache-Control",
+              "description": "Tells all caching mechanisms from server to client whether they may cache this object. It is measured in seconds"
+            },
+            {
+              "key": "Connection",
+              "value": "keep-alive",
+              "name": "Connection",
+              "description": "Options that are desired for the connection"
+            },
+            {
+              "key": "Content-Encoding",
+              "value": "gzip",
+              "name": "Content-Encoding",
+              "description": "The type of encoding used on the data."
+            },
+            {
+              "key": "Content-Security-Policy-Report-Only",
+              "value": "default-src f.gdt.isd.com *.qq.com *.gtimg.cn *.gtimg.com *.idqqimg.com *.tenpay.com *.qpic.cn 'self' 'unsafe-inline' 'unsafe-eval' blob: data: filesystem: ; connect-src * blob: data: filesystem: ; form-action * blob: data: filesystem: ; child-src * blob: data: filesystem: ; frame-src * blob: data: filesystem: ;  img-src * blob: data: filesystem: ; font-src * blob: data: filesystem: ; report-uri http://e.qq.com/ec/api.php?mod=monitor&act=sendcspreport;",
+              "name": "Content-Security-Policy-Report-Only",
+              "description": "Custom header"
+            },
+            {
+              "key": "Content-Type",
+              "value": "text/html; charset=utf-8",
+              "name": "Content-Type",
+              "description": "The mime type of this content"
+            },
+            {
+              "key": "Date",
+              "value": "Fri, 23 Mar 2018 02:36:19 GMT",
+              "name": "Date",
+              "description": "The date and time that the message was sent"
+            },
+            {
+              "key": "Expires",
+              "value": "-1",
+              "name": "Expires",
+              "description": "Gives the date/time after which the response is considered stale"
+            },
+            {
+              "key": "Server",
+              "value": "nginx",
+              "name": "Server",
+              "description": "A name for the server"
+            },
+            {
+              "key": "Transfer-Encoding",
+              "value": "chunked",
+              "name": "Transfer-Encoding",
+              "description": "The form of encoding used to safely transfer the entity to the user. Currently defined methods are: chunked, compress, deflate, gzip, identity."
+            },
+            {
+              "key": "Vary",
+              "value": "Accept-Encoding",
+              "name": "Vary",
+              "description": "Tells downstream proxies how to match future request headers to decide whether the cached response can be used rather than requesting a fresh one from the origin server."
+            }
+          ],
+          "cookie": [],
+          "responseTime": null,
+          "body": "{\"ret\":0,\"msg\":\"\u63a8\u5e7f\u8ba1\u5212\u5220\u9664\u6210\u529f\"}"
+        }
+      ]
     }
   ]
 }
